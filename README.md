@@ -19,6 +19,10 @@ Collection of resource links and useful information
 
 * [Ebay's optional custom font rendering solution](http://www.ebaytechblog.com/2017/09/21/ebays-font-loading-strategy/)
 
+### Accessibility
+
+* [Accessibility at Trivago](http://tech.trivago.com/2017/09/26/accessibility-at-trivago/)
+
 ### React
 
 * [What you need to know about React 16 - Medium.com](https://medium.com/ecmastack/what-you-need-to-know-about-react-16-a4e216522041)
