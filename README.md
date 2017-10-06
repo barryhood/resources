@@ -22,9 +22,11 @@ Collection of resource links and useful information
 ### Accessibility
 
 * [Accessibility at Trivago](http://tech.trivago.com/2017/09/26/accessibility-at-trivago/)
+* [Pa11y accessibility tools](http://pa11y.org/)
 
 ### React
 
+* [React.org React 16 release](https://reactjs.org/blog/2017/09/26/react-v16.0.html)
 * [What you need to know about React 16 - Medium.com](https://medium.com/ecmastack/what-you-need-to-know-about-react-16-a4e216522041)
 
 ### Tooling
