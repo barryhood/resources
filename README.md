@@ -36,6 +36,7 @@ Collection of resource links and useful information
 ### Vue.JS
 
 * [Vue Style Guide](https://vuejs.org/v2/style-guide/)
+* [Transitions and animations in Vue](https://snipcart.com/blog/vuejs-transitions-animations)
 
 ### Tooling
 
