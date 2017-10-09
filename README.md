@@ -92,6 +92,12 @@ What's coming in the future of CSS.
 
 ---
 
+### Blogs
+
+* [CSS Tricks - Chris Coyier](https://css-tricks.com/)
+
+---
+
 ### Devices
 
 * [Iphone X Safe Area](https://www.quirksmode.org/blog/archives/2017/10/safeareainset_v.html)
