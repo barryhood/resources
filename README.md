@@ -24,6 +24,10 @@ Collection of resource links and useful information
 * [Accessibility at Trivago](http://tech.trivago.com/2017/09/26/accessibility-at-trivago/)
 * [Pa11y accessibility tools](http://pa11y.org/)
 
+### JS/ES6+
+
+* [Async/Await explained with diagrams](http://nikgrozev.com/2017/10/01/async-await/)
+
 ### React
 
 * [React.org React 16 release](https://reactjs.org/blog/2017/09/26/react-v16.0.html)
