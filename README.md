@@ -49,6 +49,7 @@ What's coming in the future of CSS.
 
 ### JS/ES6+
 
+* [The Many Faces of this - the this keyword explained in detail](https://blog.pragmatists.com/the-many-faces-of-this-in-javascript-5f8be40df52e)
 * [Async/Await explained with diagrams](http://nikgrozev.com/2017/10/01/async-await/)
 
 ---
