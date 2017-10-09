@@ -26,6 +26,10 @@ Ways to write CSS to improve scalability, readability, etc.
 * [Intro to Grid - Mozilla Developers](https://mozilladevelopers.github.io/playground/09-named-lines/)
 * [CSS Grid Gotchas and Stumbling Blocks - Smashing Mag](https://www.smashingmagazine.com/2017/09/css-grid-gotchas-stumbling-blocks/)
 
+##### CSS tooling
+
+* [Taking CSS Linting to the next Level - Stylelint - Sitepoint](https://www.sitepoint.com/taking-css-linting-next-level-stylelint/)
+
 ##### Upcoming CSS
 
 What's coming in the future of CSS.
