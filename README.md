@@ -75,3 +75,8 @@ What's coming in the future of CSS.
 * [Front end tooling trends 2017 - Sitepoint](https://www.sitepoint.com/front-end-tooling-trends-2017/?utm_campaign=Front%2BEnd%2BDev%2BWeekly&utm_medium=web&utm_source=Front_End_Dev_Weekly_114)
 * [Adding ES Lint to IDE (Sublime, Atom)](https://medium.com/@netczuk/even-faster-code-formatting-using-eslint-22b80d061461)
 
+---
+
+### Devices
+
+* [Iphone X Safe Area](https://www.quirksmode.org/blog/archives/2017/10/safeareainset_v.html)
