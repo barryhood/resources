@@ -29,6 +29,10 @@ Collection of resource links and useful information
 * [React.org React 16 release](https://reactjs.org/blog/2017/09/26/react-v16.0.html)
 * [What you need to know about React 16 - Medium.com](https://medium.com/ecmastack/what-you-need-to-know-about-react-16-a4e216522041)
 
+### Vue.JS
+
+* [Vue Style Guide](https://vuejs.org/v2/style-guide/)
+
 ### Tooling
 
 * [Front end tooling trends 2017 - Sitepoint](https://www.sitepoint.com/front-end-tooling-trends-2017/?utm_campaign=Front%2BEnd%2BDev%2BWeekly&utm_medium=web&utm_source=Front_End_Dev_Weekly_114)
