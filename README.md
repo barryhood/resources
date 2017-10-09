@@ -79,6 +79,12 @@ What's coming in the future of CSS.
 
 ---
 
+### Angular
+
+* [6 Best Practices & Pro Tips when using Angular CLI](https://medium.com/@tomastrajan/6-best-practices-pro-tips-for-angular-cli-better-developer-experience-7b328bc9db81)
+
+---
+
 ### Tooling
 
 * [Front end tooling trends 2017 - Sitepoint](https://www.sitepoint.com/front-end-tooling-trends-2017/?utm_campaign=Front%2BEnd%2BDev%2BWeekly&utm_medium=web&utm_source=Front_End_Dev_Weekly_114)
