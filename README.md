@@ -6,12 +6,19 @@ Collection of resource links and useful information
 
 ### CSS
 
+##### CSS style guides
+
 * [Atomic CSS (ACSS)](https://acss.io/)
 * [BEM (Block Element Module) CSS](http://getbem.com/)
 * [Suit CSS](https://suitcss.github.io/)
 * [Scalable and Modular Architecture for CSS (SMACSS)](https://smacss.com/)
 
-### Upcoming CSS
+##### CSS Grid
+
+* [Intro to Grid - Mozilla Developers](https://mozilladevelopers.github.io/playground/09-named-lines/)
+* [CSS Grid Gotchas and Stumbling Blocks - Smashing Mag](https://www.smashingmagazine.com/2017/09/css-grid-gotchas-stumbling-blocks/)
+
+##### Upcoming CSS
 
 * [CSS 4 Selectors](https://webdesign.tutsplus.com/tutorials/intriguing-css-level-4-selectors--cms-29499)
 
