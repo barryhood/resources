@@ -12,6 +12,8 @@ Collection of resource links and useful information
 
 ### CSS
 
+* [Solving the "Append-only Stylesheet" problem](https://css-tricks.com/oh-no-stylesheet-grows-grows-grows-append-stylesheet-problem/)
+
 ##### CSS style guides
 
 Ways to write CSS to improve scalability, readability, etc.
