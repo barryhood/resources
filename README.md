@@ -75,6 +75,10 @@ What's coming in the future of CSS.
 * [Using Vue in React and vice versa](https://github.com/akxcv/vuera)
 * [Updating to React 16](https://blog.discordapp.com/lessons-from-migrating-a-large-codebase-to-react-16-e60e49102aa6)
 
+##### React Style Guides
+
+* [AirBnB React Style Guide](https://github.com/airbnb/javascript/tree/master/react)
+
 ---
 
 ### Vue.JS
