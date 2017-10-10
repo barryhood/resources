@@ -63,6 +63,10 @@ What's coming in the future of CSS.
 * [AirBnB Style Guide](http://airbnb.io/javascript/)
 * [StandardJS](https://standardjs.com/)
 
+##### Debugging JS
+
+* [Learn how to debug JavaScript with Chrome Devtools - Codeburst.io](https://codeburst.io/learn-how-to-debug-javascript-with-chrome-devtools-9514c58479db)
+
 ---
 
 ### React
