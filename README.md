@@ -61,6 +61,7 @@ What's coming in the future of CSS.
 * [Async/Await explained with diagrams](http://nikgrozev.com/2017/10/01/async-await/)
 * [Compiling vs Polyfilling](https://medium.freecodecamp.org/compiling-vs-polyfills-with-babel-c44279dc7a10)
 * [20 Tips and Best Practices for Improving JavaScript Performance](https://www.keycdn.com/blog/javascript-performance/)
+* [Improving JS Performance](https://www.keycdn.com/blog/javascript-performance/)
 
 ##### JS Style Guides
 
