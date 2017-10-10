@@ -43,6 +43,7 @@ What's coming in the future of CSS.
 ### Fonts
 
 * [Ebay's optional custom font rendering solution](http://www.ebaytechblog.com/2017/09/21/ebays-font-loading-strategy/)
+* [Font-size adjust](https://www.sitepoint.com/improve-web-typography-css-font-size-adjust/)
 
 ---
 
