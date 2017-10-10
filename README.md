@@ -27,6 +27,7 @@ Ways to write CSS to improve scalability, readability, etc.
 
 * [Intro to Grid - Mozilla Developers](https://mozilladevelopers.github.io/playground/09-named-lines/)
 * [CSS Grid Gotchas and Stumbling Blocks - Smashing Mag](https://www.smashingmagazine.com/2017/09/css-grid-gotchas-stumbling-blocks/)
+* [A Super Quick Way to Try Out Grid](http://jensimmons.com/post/aug-15-2017/heres-super-quick-way-try-out-css-grid)
 
 ##### CSS tooling
 
@@ -62,6 +63,7 @@ What's coming in the future of CSS.
 * [Compiling vs Polyfilling](https://medium.freecodecamp.org/compiling-vs-polyfills-with-babel-c44279dc7a10)
 * [20 Tips and Best Practices for Improving JavaScript Performance](https://www.keycdn.com/blog/javascript-performance/)
 * [Improving JS Performance](https://www.keycdn.com/blog/javascript-performance/)
+* [JavaScript Scope and Closures](https://css-tricks.com/javascript-scope-closures/)
 
 ##### JS Style Guides
 
