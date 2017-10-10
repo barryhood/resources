@@ -74,6 +74,7 @@ What's coming in the future of CSS.
 * [How to fix your React app when it secretly hates you](https://medium.com/building-crowdriff/how-to-fix-your-react-app-when-it-secretly-hates-you-8532ffbcc7f9)
 * [Using Vue in React and vice versa](https://github.com/akxcv/vuera)
 * [Updating to React 16](https://blog.discordapp.com/lessons-from-migrating-a-large-codebase-to-react-16-e60e49102aa6)
+* [Index as Key is an Anti-Pattern - when and why not to use index as key](https://medium.com/@robinpokorny/index-as-a-key-is-an-anti-pattern-e0349aece318)
 
 ##### React Style Guides
 
