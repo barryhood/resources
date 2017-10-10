@@ -118,3 +118,4 @@ What's coming in the future of CSS.
 ### Devices
 
 * [Iphone X Safe Area](https://www.quirksmode.org/blog/archives/2017/10/safeareainset_v.html)
+* [The State of VR and the Web](https://www.smashingmagazine.com/2017/09/guide-virtual-reality-web-developers/)
