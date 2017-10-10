@@ -58,6 +58,11 @@ What's coming in the future of CSS.
 * [Async/Await explained with diagrams](http://nikgrozev.com/2017/10/01/async-await/)
 * [Compiling vs Polyfilling](https://medium.freecodecamp.org/compiling-vs-polyfills-with-babel-c44279dc7a10)
 
+##### JS Style Guides
+
+* [AirBnB Style Guide](http://airbnb.io/javascript/)
+* [StandardJS](https://standardjs.com/)
+
 ---
 
 ### React
