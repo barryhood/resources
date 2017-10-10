@@ -82,6 +82,7 @@ What's coming in the future of CSS.
 * [Updating to React 16](https://blog.discordapp.com/lessons-from-migrating-a-large-codebase-to-react-16-e60e49102aa6)
 * [Index as Key is an Anti-Pattern - when and why not to use index as key](https://medium.com/@robinpokorny/index-as-a-key-is-an-anti-pattern-e0349aece318)
 * [React Events Cheat Sheet](https://reactarmory.com/guides/react-events-cheatsheet)
+* [A Step Through the React Lifecycle](https://reactarmory.com/guides/lifecycle-simulators)
 
 ##### React Style Guides
 
