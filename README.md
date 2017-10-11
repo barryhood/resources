@@ -111,6 +111,13 @@ What's coming in the future of CSS.
 
 ---
 
+### Web Components
+
+* [Web Components - webcomponents.org](https://www.webcomponents.org/introduction)
+* [Shadow DOM: fast and encapsulated styles](https://meowni.ca/posts/shadow-dom/)
+
+---
+
 ### Tooling
 
 * [Front end tooling trends 2017 - Sitepoint](https://www.sitepoint.com/front-end-tooling-trends-2017/?utm_campaign=Front%2BEnd%2BDev%2BWeekly&utm_medium=web&utm_source=Front_End_Dev_Weekly_114)
