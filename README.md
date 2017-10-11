@@ -67,6 +67,7 @@ What's coming in the future of CSS.
 * [JavaScript Scope and Closures](https://css-tricks.com/javascript-scope-closures/)
 * [8 Key React Component Decisions](https://medium.freecodecamp.org/8-key-react-component-decisions-cc965db11594)
 * [React Stateless Functional Components: Nine Wins You Might Have Overlooked](https://hackernoon.com/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc)
+* [Understanding Service Workers](http://blog.88mph.io/2017/07/28/understanding-service-workers/)
 
 ##### JS Style Guides
 
