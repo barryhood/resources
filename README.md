@@ -65,6 +65,8 @@ What's coming in the future of CSS.
 * [20 Tips and Best Practices for Improving JavaScript Performance](https://www.keycdn.com/blog/javascript-performance/)
 * [Improving JS Performance](https://www.keycdn.com/blog/javascript-performance/)
 * [JavaScript Scope and Closures](https://css-tricks.com/javascript-scope-closures/)
+* [8 Key React Component Decisions](https://medium.freecodecamp.org/8-key-react-component-decisions-cc965db11594)
+* [React Stateless Functional Components: Nine Wins You Might Have Overlooked](https://hackernoon.com/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc)
 
 ##### JS Style Guides
 
