@@ -69,6 +69,7 @@ What's coming in the future of CSS.
 * [React Stateless Functional Components: Nine Wins You Might Have Overlooked](https://hackernoon.com/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc)
 * [Understanding Service Workers](http://blog.88mph.io/2017/07/28/understanding-service-workers/)
 * [WTFJS - Some Weird JavaScript Quirks](https://github.com/denysdovhan/wtfjs)
+* [ES6 Patterns: Converting Callbacks to Promises](https://benmccormick.org/2015/12/30/es6-patterns-converting-callbacks-to-promises/)
 
 ##### JS Style Guides
 
