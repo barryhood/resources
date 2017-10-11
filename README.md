@@ -118,6 +118,11 @@ What's coming in the future of CSS.
 
 ---
 
+### Images
+
+* [Lazy Loading Images With Intersection Observer](http://www.deanhume.com/Home/BlogPost/lazy-loading-images-using-intersection-observer/10163)
+---
+
 ### Tooling
 
 * [Front end tooling trends 2017 - Sitepoint](https://www.sitepoint.com/front-end-tooling-trends-2017/?utm_campaign=Front%2BEnd%2BDev%2BWeekly&utm_medium=web&utm_source=Front_End_Dev_Weekly_114)
