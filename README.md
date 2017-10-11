@@ -81,6 +81,7 @@ What's coming in the future of CSS.
 
 ### React
 
+* [Facebook's Create React App starter](https://github.com/facebookincubator/create-react-app)
 * [React.org React 16 release](https://reactjs.org/blog/2017/09/26/react-v16.0.html)
 * [What you need to know about React 16 - Medium.com](https://medium.com/ecmastack/what-you-need-to-know-about-react-16-a4e216522041)
 * [6 Pro Tips from React Devs - Sitepoint](https://www.sitepoint.com/6-pro-tips-from-react-developers/)
