@@ -23,6 +23,7 @@ Ways to write CSS to improve scalability, readability, etc.
 * [BEM (Block Element Module) CSS](http://getbem.com/)
 * [Suit CSS](https://suitcss.github.io/)
 * [Scalable and Modular Architecture for CSS (SMACSS)](https://smacss.com/)
+* [Atomic Design – Your Ultimate Guide to Scalable & Modular CSS (Sass)](https://blog.alexdevero.com/atomic-design-scalable-modular-css-sass/)
 
 ##### CSS Grid
 
@@ -72,6 +73,13 @@ What's coming in the future of CSS.
 * [Understanding Service Workers](http://blog.88mph.io/2017/07/28/understanding-service-workers/)
 * [WTFJS - Some Weird JavaScript Quirks](https://github.com/denysdovhan/wtfjs)
 * [ES6 Patterns: Converting Callbacks to Promises](https://benmccormick.org/2015/12/30/es6-patterns-converting-callbacks-to-promises/)
+
+##### Functional JS
+
+* [How I rediscovered my love for JavaScript after throwing 90% of it in the trash](https://hackernoon.com/how-i-rediscovered-my-love-for-javascript-after-throwing-90-of-it-in-the-trash-f1baed075d1b)
+* [Rethinking JavaScript: Death of the For Loop](https://hackernoon.com/rethinking-javascript-death-of-the-for-loop-c431564c84a8)
+* [Rethinking JavaScript: The if statement](https://hackernoon.com/rethinking-javascript-the-if-statement-b158a61cd6cb)
+* [Functional JavaScript: Decoupling methods from their objects](https://hackernoon.com/functional-javascript-decoupling-methods-from-their-objects-aa3ca13d7ae8)
 
 ##### JS Style Guides
 
