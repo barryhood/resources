@@ -70,7 +70,6 @@ What's coming in the future of CSS.
 * [JavaScript Scope and Closures](https://css-tricks.com/javascript-scope-closures/)
 * [8 Key React Component Decisions](https://medium.freecodecamp.org/8-key-react-component-decisions-cc965db11594)
 * [React Stateless Functional Components: Nine Wins You Might Have Overlooked](https://hackernoon.com/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc)
-* [Understanding Service Workers](http://blog.88mph.io/2017/07/28/understanding-service-workers/)
 * [WTFJS - Some Weird JavaScript Quirks](https://github.com/denysdovhan/wtfjs)
 * [ES6 Patterns: Converting Callbacks to Promises](https://benmccormick.org/2015/12/30/es6-patterns-converting-callbacks-to-promises/)
 
@@ -80,6 +79,11 @@ What's coming in the future of CSS.
 * [Rethinking JavaScript: Death of the For Loop](https://hackernoon.com/rethinking-javascript-death-of-the-for-loop-c431564c84a8)
 * [Rethinking JavaScript: The if statement](https://hackernoon.com/rethinking-javascript-the-if-statement-b158a61cd6cb)
 * [Functional JavaScript: Decoupling methods from their objects](https://hackernoon.com/functional-javascript-decoupling-methods-from-their-objects-aa3ca13d7ae8)
+
+##### Service Workers
+
+* [Understanding Service Workers](http://blog.88mph.io/2017/07/28/understanding-service-workers/)
+* [Service Worker Gotchas](https://www.kollegorna.se/en/2017/06/service-worker-gotchas/)
 
 ##### JS Style Guides
 
