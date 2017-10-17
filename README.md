@@ -82,6 +82,7 @@ What's coming in the future of CSS.
 * [Rethinking JavaScript: Death of the For Loop](https://hackernoon.com/rethinking-javascript-death-of-the-for-loop-c431564c84a8)
 * [Rethinking JavaScript: The if statement](https://hackernoon.com/rethinking-javascript-the-if-statement-b158a61cd6cb)
 * [Functional JavaScript: Decoupling methods from their objects](https://hackernoon.com/functional-javascript-decoupling-methods-from-their-objects-aa3ca13d7ae8)
+* [Functional Programming - Pure Functions - Sitepoint](https://www.sitepoint.com/functional-programming-pure-functions/)
 
 ##### Service Workers
 
