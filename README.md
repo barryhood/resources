@@ -8,6 +8,7 @@ Collection of resource links and useful information
 
 * [Front End Front - Front end news/resources](https://frontendfront.com/)
 * [JavaScript Weekly](http://javascriptweekly.com/)
+* [A study plan to cure JavaScript fatigue](https://medium.freecodecamp.org/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1)
 
 ---
 
