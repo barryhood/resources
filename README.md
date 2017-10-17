@@ -72,6 +72,7 @@ What's coming in the future of CSS.
 * [React Stateless Functional Components: Nine Wins You Might Have Overlooked](https://hackernoon.com/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc)
 * [WTFJS - Some Weird JavaScript Quirks](https://github.com/denysdovhan/wtfjs)
 * [ES6 Patterns: Converting Callbacks to Promises](https://benmccormick.org/2015/12/30/es6-patterns-converting-callbacks-to-promises/)
+* [Glossary of Modern JS Concepts](https://auth0.com/blog/glossary-of-modern-javascript-concepts/)
 
 ##### Functional JS
 
