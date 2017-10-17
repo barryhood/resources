@@ -83,6 +83,7 @@ What's coming in the future of CSS.
 * [Rethinking JavaScript: The if statement](https://hackernoon.com/rethinking-javascript-the-if-statement-b158a61cd6cb)
 * [Functional JavaScript: Decoupling methods from their objects](https://hackernoon.com/functional-javascript-decoupling-methods-from-their-objects-aa3ca13d7ae8)
 * [Functional Programming - Pure Functions - Sitepoint](https://www.sitepoint.com/functional-programming-pure-functions/)
+* [Pure versus impure functions](https://toddmotto.com/pure-versus-impure-functions)
 
 ##### Service Workers
 
