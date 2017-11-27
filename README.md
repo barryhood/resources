@@ -16,6 +16,7 @@ Collection of resource links and useful information
 ### CSS
 
 * [Solving the "Append-only Stylesheet" problem](https://css-tricks.com/oh-no-stylesheet-grows-grows-grows-append-stylesheet-problem/)
+* [Must-watch videos on CSS](https://github.com/AllThingsSmitty/must-watch-css)
 
 ##### CSS style guides
 
