@@ -76,6 +76,7 @@ What's coming in the future of CSS.
 * [ES6 Patterns: Converting Callbacks to Promises](https://benmccormick.org/2015/12/30/es6-patterns-converting-callbacks-to-promises/)
 * [Glossary of Modern JS Concepts](https://auth0.com/blog/glossary-of-modern-javascript-concepts/)
 * [Automatic Semi-Colon Insertion explained](http://www.bradoncode.com/blog/2015/08/26/javascript-semi-colon-insertion/)
+* [Must-watch videos on JS](https://github.com/AllThingsSmitty/must-watch-javascript)
 
 ##### Functional JS
 
