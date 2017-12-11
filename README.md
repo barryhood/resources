@@ -173,3 +173,4 @@ What's coming in the future of CSS.
 
 * [Perf Planet](http://www.perfplanet.com/)
 * [Progressive Image Loading with Intersection Observer](https://calendar.perfplanet.com/2017/progressive-image-loading-using-intersection-observer-and-sqip/)
+* [SQUIP overview](https://calendar.perfplanet.com/2017/sqip-vague-vectors-for-performant-previews/)
