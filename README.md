@@ -16,6 +16,7 @@ Collection of resource links and useful information
 ### HTML
 
 * [HTML 5.2 Dialog element (modals)](https://keithjgrant.com/posts/2018/meet-the-new-dialog-element/)
+* [A brief look at HTML dialog](https://kyusuf.com/post/a-brief-look-at-html-dialog)
 
 ---
 
