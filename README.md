@@ -86,6 +86,7 @@ What's coming in the future of CSS.
 * [Glossary of Modern JS Concepts](https://auth0.com/blog/glossary-of-modern-javascript-concepts/)
 * [Automatic Semi-Colon Insertion explained](http://www.bradoncode.com/blog/2015/08/26/javascript-semi-colon-insertion/)
 * [Must-watch videos on JS](https://github.com/AllThingsSmitty/must-watch-javascript)
+*[Meta-programming with proxies](http://exploringjs.com/es6/ch_proxies.html)
 
 ##### Functional JS
 
