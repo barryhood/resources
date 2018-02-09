@@ -68,6 +68,8 @@ What's coming in the future of CSS.
 * [10 guidelines to improve your web accessibility](https://aerolab.co/blog/web-accessibility/)
 * [Accessibility design patterns - tink](https://design-patterns.tink.uk/)
 * [My Accessibility Journey](https://alistapart.com/article/my-accessibility-journey-what-ive-learned-so-far)
+* [18F Accessibility Guide](https://accessibility.18f.gov/index.html)
+* [WAI-ARIA Design Patterns - W3C](https://www.w3.org/TR/wai-aria-practices-1.1/#aria_ex)
 
 ---
 
