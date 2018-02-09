@@ -70,6 +70,9 @@ What's coming in the future of CSS.
 * [My Accessibility Journey](https://alistapart.com/article/my-accessibility-journey-what-ive-learned-so-far)
 * [18F Accessibility Guide](https://accessibility.18f.gov/index.html)
 * [WAI-ARIA Design Patterns - W3C](https://www.w3.org/TR/wai-aria-practices-1.1/#aria_ex)
+* [Inclusive JavaScript Components](https://inclusive-components.design/)
+* [Accessible Web Components - Frend](https://frend.co/)
+
 
 ---
 
