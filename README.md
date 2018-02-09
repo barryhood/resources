@@ -66,6 +66,7 @@ What's coming in the future of CSS.
 * [Pa11y accessibility tools](http://pa11y.org/)
 * [Accesible Tabbed Interfaces](https://inclusive-components.design/tabbed-interfaces/)
 * [10 guidelines to improve your web accessibility](https://aerolab.co/blog/web-accessibility/)
+* [Accessibility design patterns - tink](https://design-patterns.tink.uk/)
 
 ---
 
