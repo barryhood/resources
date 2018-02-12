@@ -44,6 +44,7 @@ Ways to write CSS to improve scalability, readability, etc.
 ##### CSS tooling
 
 * [Taking CSS Linting to the next Level - Stylelint - Sitepoint](https://www.sitepoint.com/taking-css-linting-next-level-stylelint/)
+* [Making sense of front end build tools](https://medium.freecodecamp.org/making-sense-of-front-end-build-tools-3a1b3a87043b)
 
 ##### Upcoming CSS
 
@@ -94,6 +95,7 @@ What's coming in the future of CSS.
 * [Must-watch videos on JS](https://github.com/AllThingsSmitty/must-watch-javascript)
 * [Meta-programming with proxies](http://exploringjs.com/es6/ch_proxies.html)
 * [ES6 features](https://github.com/lukehoban/es6features)
+* [Async Await Promise All Array Destructuring](https://www.dalejefferson.com/blog/async-await-promise-all-array-destructuring/)
 
 ##### Functional JS
 
@@ -108,6 +110,7 @@ What's coming in the future of CSS.
 
 * [Understanding Service Workers](http://blog.88mph.io/2017/07/28/understanding-service-workers/)
 * [Service Worker Gotchas](https://www.kollegorna.se/en/2017/06/service-worker-gotchas/)
+* [Service Workers Explained](https://flaviocopes.com/service-workers/)
 
 ##### JS Style Guides
 
