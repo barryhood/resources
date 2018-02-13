@@ -75,6 +75,7 @@ What's coming in the future of CSS.
 * [Inclusive JavaScript Components](https://inclusive-components.design/)
 * [Accessible Web Components - Frend](https://frend.co/)
 * [A11y Style Guide](http://a11y-style-guide.com/style-guide/)
+* [eBay MIND design patterns](http://ebay.github.io/mindpatterns/)
 
 
 ---
