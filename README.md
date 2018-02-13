@@ -34,6 +34,7 @@ Ways to write CSS to improve scalability, readability, etc.
 * [Suit CSS](https://suitcss.github.io/)
 * [Scalable and Modular Architecture for CSS (SMACSS)](https://smacss.com/)
 * [Atomic Design – Your Ultimate Guide to Scalable & Modular CSS (Sass)](https://blog.alexdevero.com/atomic-design-scalable-modular-css-sass/)
+* [Media Queries and Responsive Design 2018 and beyond](https://www.smashingmagazine.com/2018/02/media-queries-responsive-design-2018/?utm_campaign=CSS%2BLayout%2BNews&utm_medium=email&utm_source=CSS_Layout_News_132#do-you-need-a-media-query-at-all)
 
 ##### CSS Grid
 
@@ -73,6 +74,7 @@ What's coming in the future of CSS.
 * [WAI-ARIA Design Patterns - W3C](https://www.w3.org/TR/wai-aria-practices-1.1/#aria_ex)
 * [Inclusive JavaScript Components](https://inclusive-components.design/)
 * [Accessible Web Components - Frend](https://frend.co/)
+* [A11y Style Guide](http://a11y-style-guide.com/style-guide/)
 
 
 ---
