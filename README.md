@@ -140,6 +140,7 @@ What's coming in the future of CSS.
 * [Index as Key is an Anti-Pattern - when and why not to use index as key](https://medium.com/@robinpokorny/index-as-a-key-is-an-anti-pattern-e0349aece318)
 * [React Events Cheat Sheet](https://reactarmory.com/guides/react-events-cheatsheet)
 * [A Step Through the React Lifecycle](https://reactarmory.com/guides/lifecycle-simulators)
+* [Advanced React Component Patterns](https://egghead.io/lessons/react-introducing-advanced-react-component-patterns?utm_content=buffer111e3&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 ##### React Style Guides
 
