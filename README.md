@@ -169,6 +169,8 @@ What's coming in the future of CSS.
 ### Images
 
 * [Lazy Loading Images With Intersection Observer](http://www.deanhume.com/Home/BlogPost/lazy-loading-images-using-intersection-observer/10163)
+* [Hand Coding SVG](https://webdesign.tutsplus.com/tutorials/how-to-hand-code-svg--cms-30368)
+
 ---
 
 ### Tooling
