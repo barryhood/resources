@@ -100,6 +100,7 @@ What's coming in the future of CSS.
 * [Meta-programming with proxies](http://exploringjs.com/es6/ch_proxies.html)
 * [ES6 features](https://github.com/lukehoban/es6features)
 * [Async Await Promise All Array Destructuring](https://www.dalejefferson.com/blog/async-await-promise-all-array-destructuring/)
+* [Vanilla JS equivalent of jQuery fadeIn/fadeOut](http://www.chrisbuttery.com/articles/fade-in-fade-out-with-javascript/)
 
 ##### Functional JS
 
