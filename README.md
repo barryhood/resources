@@ -14,7 +14,7 @@ Collection of resource links and useful information
 
 Tools and resources
 
-* [https://jsonplaceholder.typicode.com/](JSON Placeholder - dummy JSON data to quickly prototype with)
+* [JSON Placeholder - dummy JSON data to quickly prototype with](https://jsonplaceholder.typicode.com/)
 
 ---
 
