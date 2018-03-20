@@ -12,6 +12,10 @@ Collection of resource links and useful information
 * [Front End study guide for large teams from Grab](https://medium.freecodecamp.org/grabs-front-end-guide-for-large-teams-484d4033cc41)
 * [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
 
+Tools and resources
+
+* [https://jsonplaceholder.typicode.com/](JSON Placeholder - dummy JSON data to quickly prototype with)
+
 ---
 
 ### HTML
