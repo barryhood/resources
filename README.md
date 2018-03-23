@@ -12,6 +12,10 @@ Collection of resource links and useful information
 * [Front End study guide for large teams from Grab](https://medium.freecodecamp.org/grabs-front-end-guide-for-large-teams-484d4033cc41)
 * [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
 
+Tools and resources
+
+* [JSON Placeholder - dummy JSON data to quickly prototype with](https://jsonplaceholder.typicode.com/)
+
 ---
 
 ### HTML
@@ -39,6 +43,7 @@ Ways to write CSS to improve scalability, readability, etc.
 
 ##### CSS Grid
 
+* [Grid By Example - Grid patterns](https://gridbyexample.com/)
 * [Intro to Grid - Mozilla Developers](https://mozilladevelopers.github.io/playground/09-named-lines/)
 * [CSS Grid Gotchas and Stumbling Blocks - Smashing Mag](https://www.smashingmagazine.com/2017/09/css-grid-gotchas-stumbling-blocks/)
 * [A Super Quick Way to Try Out Grid](http://jensimmons.com/post/aug-15-2017/heres-super-quick-way-try-out-css-grid)
@@ -110,6 +115,11 @@ What's coming in the future of CSS.
 * [Functional JavaScript: Decoupling methods from their objects](https://hackernoon.com/functional-javascript-decoupling-methods-from-their-objects-aa3ca13d7ae8)
 * [Functional Programming - Pure Functions - Sitepoint](https://www.sitepoint.com/functional-programming-pure-functions/)
 * [Pure versus impure functions](https://toddmotto.com/pure-versus-impure-functions)
+
+##### Composition vs Inheritance
+
+* [Object composition in JavaScript](https://medium.com/code-monkey/object-composition-in-javascript-2f9b9077b5e6)
+* [Fun Fun Function - Composition over Inheritance](https://www.youtube.com/watch?v=wfMtDGfHWpA)
 
 ##### Service Workers
 
