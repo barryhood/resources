@@ -29,6 +29,7 @@ Tools and resources
 
 * [Solving the "Append-only Stylesheet" problem](https://css-tricks.com/oh-no-stylesheet-grows-grows-grows-append-stylesheet-problem/)
 * [Must-watch videos on CSS](https://github.com/AllThingsSmitty/must-watch-css)
+* [Houdini experiments](https://css-houdini.rocks/)
 
 ##### CSS style guides
 
