@@ -154,6 +154,13 @@ What's coming in the future of CSS.
 * [A Step Through the React Lifecycle](https://reactarmory.com/guides/lifecycle-simulators)
 * [Advanced React Component Patterns](https://egghead.io/lessons/react-introducing-advanced-react-component-patterns?utm_content=buffer111e3&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
+##### ReactJS.org documentation
+
+* [Higher Order Components (HOCs) in React](https://reactjs.org/docs/higher-order-components.html)
+* [Refs and the DOM](https://reactjs.org/docs/refs-and-the-dom.html)
+* [State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
+
+
 ##### React Style Guides
 
 * [AirBnB React Style Guide](https://github.com/airbnb/javascript/tree/master/react)
