@@ -200,8 +200,31 @@ The dispatch() method can be accessed via store.dispatch() or by mapping dispatc
 
 ### Reducers
 
+The reducer is a pure function that takes the previous state and an action, and returns the next state.
 
+`(previousState, action) => newState`
 
+It's very important that the reducer stays pure. Things you should never do inside a reducer:
+
+* Mutate its arguments;
+* Perform side effects like API calls and routing transitions;
+* Call non-pure functions, e.g. Date.now() or Math.random()
+
+Example reducer:
+
+```
+function todoApp(state = initialState, action) {
+  switch (action.type) {
+    case SET_VISIBILITY_FILTER:
+      return Object.assign({}, state, { 
+        // note we clone the state, assigning/returning the cloned state plus the new value in order to not mutate the state
+        visibilityFilter: action.filter
+      })
+    default:
+      return state
+  }
+}
+```
 
 
 
