@@ -226,6 +226,8 @@ function todoApp(state = initialState, action) {
 }
 ```
 
+Note: `Object.assign(state, { visibilityFilter: action.filter })` is also wrong: it will mutate the first argument. You **must** supply an empty object as the first parameter.
+
 
 
 
