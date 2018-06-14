@@ -169,6 +169,16 @@ What's coming in the future of CSS.
 
 ---
 
+### Redux ###
+
+* [Redx Documentation](https://redux.js.org/)
+* [Redux Core Concepts](https://redux.js.org/introduction/core-concepts)
+* [Actions](http://redux.js.org/docs/basics/Actions.html)
+* [Reducers](http://redux.js.org/docs/basics/Reducers.html)
+* Redux.js.org FAQs](http://redux.js.org/docs/FAQ.html)
+
+---
+
 ### Vue.JS
 
 * [Vue Style Guide](https://vuejs.org/v2/style-guide/)
