@@ -228,7 +228,15 @@ function todoApp(state = initialState, action) {
 
 Note: `Object.assign(state, { visibilityFilter: action.filter })` is also wrong: it will mutate the first argument. You **must** supply an empty object as the first parameter.
 
+### combineReducers()
 
+The `combineReducers()` method allows us to split reducers for readability and then combine them into a signle argument to pass into `createStore()`. We can also take advantage of ES6 `import` to have all of our reducers in a separate file, each exported separately, and import/combine them like so:
+
+```
+import { combineReducers } from 'redux'
+import * as reducers from './reducers' // gets reducers as an object with their names as the keys
+const todoApp = combineReducers(reducers)
+```
 
 
 
