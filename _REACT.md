@@ -26,13 +26,13 @@ To use routing we typically install:
 
 `react-router-dom`
 
-This is a wrapper around react-router (so we don’t need to install that directly, it will be installed as a dependency of react-router-dom).
+This is a wrapper around react-router (so we don't need to install that directly, it will be installed as a dependency of react-router-dom).
 
 Example setup:
 
 ```
-import React, { Component } from ‘react’;
-import { BrowserRouter } from ‘react-router-dom’;
+import React, { Component } from ‘react';
+import { BrowserRouter } from ‘react-router-dom';
 
 class App extends Component {
   render() {
@@ -57,31 +57,32 @@ You can use multiples of the same Route anywhere in the component (adjacent, nes
 To render components use the component keyword and pass the component import, e.g.
 
 ```
-import Posts from ‘./Posts’;
+import Posts from './Posts';
 // … then inside render method
 <Route path=”/posts” component={Posts};
 ```
 
-Links will work natively with Route, but will cause the app to reload when clicked. To prevent this, replace standard <a href> links with Route’s <Link> and pass a “to” property. This can be a string or an object with some additional props such as hash, querystring, e.g.
+Links will work natively with Route, but will cause the app to reload when clicked. To prevent this, replace standard `<a href>` links with Route's `<Link>` and pass a “to” property. This can be a string or an object with some additional props such as hash, querystring, e.g.
 
 ```
 <Link to=”/”>Home</Link>
 <Link to={{
-  pathname: ‘/new-post’,
-  hash: ‘#submit’,
-  search: ‘?q=a’
+  pathname: '/new-post',
+  hash: '#submit',
+  search: ‘?q=a'
 }}>New post</Link>
+
 ```
 
 These parameters get passed to the component rendered by the appropriate route as props that can be referenced within the component (e.g. matching the hash or search and triggering some specific behaviour such as scrolling to/displaying a particular element).
 
-To pass these down to children of the rendered component, either explicitly pass them on as props, or alternatively wrap the component using the Route’s higher order component withRouter, e.g. using our post component from above:
+To pass these down to children of the rendered component, either explicitly pass them on as props, or alternatively wrap the component using the Route's higher order component withRouter, e.g. using our post component from above:
 
 `export default withRouter(post);`
 
 This makes the component “Route-aware” and will pass down Router related props.
 
-Instead of <Link/> we can use <Navlink/> which contains some additional props such as a “.active” (by default, can be overriden via the activeClassName prop) class appended to the active route link for styling.
+Instead of `<Link/>` we can use `<Navlink/>` which contains some additional props such as a “.active” (by default, can be overriden via the activeClassName prop) class appended to the active route link for styling.
 
 Route path parameters can be passed using a colon separator:
 
@@ -91,7 +92,7 @@ This will make an id parameter available in the component:
 
 `this.props.match.params.id // where “id” is the param name we passed into path`
 
-If there are multiple matching paths, React Router’s Switch can be used to tell React to return only the first match:
+If there are multiple matching paths, React Router's Switch can be used to tell React to return only the first match:
 
 ```
 <Switch>
@@ -114,7 +115,7 @@ npm install --save react-redux
 ```
 
 Central Store (stores state)
-Actions - don’t know anything about the state in the store, they just pass an “information package” to the Reducers (this may contain a payload)
+Actions - don't know anything about the state in the store, they just pass an “information package” to the Reducers (this may contain a payload)
 Reducers - pure functions, receive the action, update the state in an immutable way. Can be multiple, combined reducers.
 To retrieve this updated state we use the “subscription model” to receive changes
 
@@ -137,7 +138,7 @@ class Counter extends Component {
 export default connect()(Counter);
 ```
 
-To connect to our store and retrieve the state, we have to map the actions we want to dispatch and the state we want to retrieve, for this we use mapStateToProps (note it could be named anything, it’s just an argument we pass to connect), which stores a function which expects the redux state as input and returns a JS object which is a map of prop names and slices of the redux store.
+To connect to our store and retrieve the state, we have to map the actions we want to dispatch and the state we want to retrieve, for this we use mapStateToProps (note it could be named anything, it's just an argument we pass to connect), which stores a function which expects the redux state as input and returns a JS object which is a map of prop names and slices of the redux store.
 
 ```
 const mapStateToProps = state => { // "state" is populated from our redux state
@@ -195,7 +196,7 @@ dispatch(addTodo(text));
 
 ### Dispatch()
 
-The dispatch() method can be accessed via store.dispatch() or by mapping dispatch to props and using react-redux’s connect() method.
+The dispatch() method can be accessed via store.dispatch() or by mapping dispatch to props and using react-redux's connect() method.
 
 ### Reducers
 
