@@ -176,6 +176,9 @@ What's coming in the future of CSS.
 * [Actions](http://redux.js.org/docs/basics/Actions.html)
 * [Reducers](http://redux.js.org/docs/basics/Reducers.html)
 * [Redux.js.org FAQs](http://redux.js.org/docs/FAQ.html)
+* [Middleware](https://redux.js.org/advanced/middleware)
+* [Redux Thunk](https://github.com/reduxjs/redux-thunk)
+* [Asynchronous Actions with Redux and Thunk](https://redux.js.org/advanced/async-actions)
 
 ---
 
