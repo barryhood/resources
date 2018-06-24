@@ -202,6 +202,12 @@ What's coming in the future of CSS.
 
 ---
 
+### Single Page Apps (SPAs)
+
+* [Token-based Authentication in SPAs](https://stormpath.com/blog/token-auth-spa)
+
+---
+
 ### Images
 
 * [Lazy Loading Images With Intersection Observer](http://www.deanhume.com/Home/BlogPost/lazy-loading-images-using-intersection-observer/10163)
@@ -214,6 +220,7 @@ What's coming in the future of CSS.
 * [Front end tooling trends 2017 - Sitepoint](https://www.sitepoint.com/front-end-tooling-trends-2017/?utm_campaign=Front%2BEnd%2BDev%2BWeekly&utm_medium=web&utm_source=Front_End_Dev_Weekly_114)
 * [Adding ES Lint to IDE (Sublime, Atom)](https://medium.com/@netczuk/even-faster-code-formatting-using-eslint-22b80d061461)
 * [How I Use Git - Git Tricks and Tips](https://hugogiraudel.com/2018/02/17/how-i-use-git/)
+* [Firebase Authentication - REST API](https://firebase.google.com/docs/reference/rest/auth/)
 
 ---
 
