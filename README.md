@@ -250,3 +250,4 @@ What's coming in the future of CSS.
 * [A thorough introduction to webpack 4 by Sean Larkin](https://medium.com/webpack/webpack-4-beta-try-it-today-6b1d27d7d7e2)
 * [A complete guide to mode and optimization in webpack 4, by Tobias Koppers](https://medium.com/webpack/webpack-4-mode-and-optimization-5423a6bc597a)
 * [All You Need to Know, from 0 Conf to Production Mode - A living, breathing introduction to webpack 4](https://www.valentinog.com/blog/webpack-4-tutorial/)
+* [Beginner's Guide to Webpack 4 and Bundling - Sitepoint](https://www.sitepoint.com/beginners-guide-webpack-module-bundling/)
