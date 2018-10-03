@@ -26,3 +26,7 @@ module.exports = {
   }
 }
 ```
+
+NOTE: when running webpack-dev-server, it seems you have to globally install this _unless_ running it through an npm script:
+`npm install webpack-dev-server -g`
+
