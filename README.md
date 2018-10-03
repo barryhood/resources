@@ -1,7 +1,5 @@
 # Tools, resources and useful information
 
----
-
 ### Resource collections:
 
 Collection of resource links and useful information
