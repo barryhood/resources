@@ -31,4 +31,24 @@ NOTE: when running webpack-dev-server, it seems you have to globally install thi
 `npm install webpack-dev-server -g`
 Alternatively run it through npx (which comes with npm) to use the local version: `npx webpack-dev-server`
 
+Important: Webpack only understands JavaScript. It relies on Loaders to enable it to understand other file types (e.g. CSS).
 
+Loaders run in reverse order, e.g.
+
+```
+  module: {
+    rules: [
+      {
+        test: /\.css$/, // regex points to file type
+        use: [ // array of loaders to use on these files
+          {
+            loader: 'style-loader' // this loader is used second
+          },
+          {
+            loader: 'css-loader' // this loader is used first
+          }
+        ]
+      }
+    ]
+  }
+```
