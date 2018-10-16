@@ -83,6 +83,7 @@ What's coming in the future of CSS.
 * [A11y Style Guide](http://a11y-style-guide.com/style-guide/)
 * [eBay MIND design patterns](http://ebay.github.io/mindpatterns/)
 * [Gov.uk A11y Blog](https://accessibility.blog.gov.uk/)
+* [WUHCAG Checklist - WCAG points explained for developers](https://www.wuhcag.com/wcag-checklist/)
 
 
 ---
