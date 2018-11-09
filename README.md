@@ -263,3 +263,12 @@ What's coming in the future of CSS.
 ### Component/UI Resources
 
 * [Storybook 4.0](https://medium.com/storybookjs/storybook-4-0-is-here-10b9857fc7de)
+
+---
+
+### Podcasts
+
+* [Codenewbie](https://www.codenewbie.org/podcast?utm_source=layout&utm_medium=resources&utm_campaign=developer-podcasts&utm_content=code-newbie)
+* [Shoptalk Show](https://shoptalkshow.com/archives/)
+* [Syntax](https://syntax.fm/show/)
+* [JavaScript Jabber](https://devchat.tv/js-jabber/?utm_source=layout&utm_medium=resources&utm_campaign=developer-podcasts&utm_content=javascript-jabber)
