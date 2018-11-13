@@ -143,6 +143,13 @@ What's coming in the future of CSS.
 
 ---
 
+### Typescript
+
+* [Definitive Typescript Guide - Sitepen](https://www.sitepen.com/blog/2018/10/29/update-the-definitive-typescript-guide/)
+* [Typescript Cheat Sheet - Sitepen (to go with the guide above)](https://www.sitepen.com/blog/2018/10/10/typescript-cheat-sheet)
+
+---
+
 ### React
 
 * [Facebook's Create React App starter](https://github.com/facebookincubator/create-react-app)
