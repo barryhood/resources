@@ -65,6 +65,7 @@ What's coming in the future of CSS.
 
 * [Ebay's optional custom font rendering solution](http://www.ebaytechblog.com/2017/09/21/ebays-font-loading-strategy/)
 * [Font-size adjust](https://www.sitepoint.com/improve-web-typography-css-font-size-adjust/)
+* [Making Gov.UK Pages Load Faster and Use Less Data](https://gdstechnology.blog.gov.uk/2018/10/04/making-gov-uk-pages-load-faster-and-use-less-data/)
 
 ---
 
