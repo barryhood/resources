@@ -89,6 +89,7 @@ What's coming in the future of CSS.
 * [Sticky Elements: Functionality and Accessibility Testing - gov.uk](https://gdstechnology.blog.gov.uk/2018/05/21/sticky-elements-functionality-and-accessibility-testing/)
 * [Custom Select Dropdowns (list of examples) - Webaxe](http://www.webaxe.org/accessible-custom-select-dropdowns/)
 * [Writing CSS With Accessibility in Mind](https://medium.com/@matuzo/writing-css-with-accessibility-in-mind-8514a0007939)
+* [Deque Cauldron Accessibility Pattern Library](https://pattern-library.dequelabs.com/)
 
 
 ---
