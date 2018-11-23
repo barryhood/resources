@@ -171,6 +171,7 @@ What's coming in the future of CSS.
 * [Advanced React Component Patterns](https://egghead.io/lessons/react-introducing-advanced-react-component-patterns?utm_content=buffer111e3&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 * [Why Not To Modify React State Directly](https://daveceddia.com/why-not-modify-react-state-directly/)
 * [React.rocks - example React projects](https://react.rocks/)
+* [React Beautiful/Accessible Drag n Drop](https://github.com/atlassian/react-beautiful-dnd)
 
 ##### ReactJS.org documentation
 
