@@ -173,6 +173,7 @@ What's coming in the future of CSS.
 * [Why Not To Modify React State Directly](https://daveceddia.com/why-not-modify-react-state-directly/)
 * [React.rocks - example React projects](https://react.rocks/)
 * [React Beautiful/Accessible Drag n Drop](https://github.com/atlassian/react-beautiful-dnd)
+* [React Why Do We Need Higher Order Components](https://vijayt.com/post/why-do-we-need-redux-and-higher-order-components)
 
 ##### ReactJS.org documentation
 
