@@ -30,6 +30,7 @@ Tools and resources
 * [Must-watch videos on CSS](https://github.com/AllThingsSmitty/must-watch-css)
 * [Houdini experiments](https://css-houdini.rocks/)
 * [Multi-line CSS link animated underline (left to right)](https://codepen.io/christiancroser/pen/xqrLBm)
+* [CSS Snap Points](https://css-tricks.com/practical-css-scroll-snapping/)
 
 ##### CSS style guides
 
@@ -126,6 +127,7 @@ What's coming in the future of CSS.
 * [Functional JavaScript: Decoupling methods from their objects](https://hackernoon.com/functional-javascript-decoupling-methods-from-their-objects-aa3ca13d7ae8)
 * [Functional Programming - Pure Functions - Sitepoint](https://www.sitepoint.com/functional-programming-pure-functions/)
 * [Pure versus impure functions](https://toddmotto.com/pure-versus-impure-functions)
+* [Monads for (Almost) All: The State Monad](https://dev.to/riccardo_cardin/and-monads-for-almost-all-the-state-monad-2im1)
 
 ##### Composition vs Inheritance
 
@@ -153,6 +155,13 @@ What's coming in the future of CSS.
 
 * [Definitive Typescript Guide - Sitepen](https://www.sitepen.com/blog/2018/10/29/update-the-definitive-typescript-guide/)
 * [Typescript Cheat Sheet - Sitepen (to go with the guide above)](https://www.sitepen.com/blog/2018/10/10/typescript-cheat-sheet)
+* [Getting Started With Typescript] (https://levelup.gitconnected.com/essential-typescript-types-get-started-with-typescript-5e20a5106c90)
+
+---
+
+### Testing
+
+* [How to make Enzyme tests cleaner](https://blog.pragmatists.com/click-your-element-how-to-make-enzyme-tests-cleaner-3e7ad21c2be0)
 
 ---
 
@@ -174,6 +183,7 @@ What's coming in the future of CSS.
 * [React.rocks - example React projects](https://react.rocks/)
 * [React Beautiful/Accessible Drag n Drop](https://github.com/atlassian/react-beautiful-dnd)
 * [React Why Do We Need Higher Order Components](https://vijayt.com/post/why-do-we-need-redux-and-higher-order-components)
+* [Destructuring in JS - Why](https://www.jsdiaries.com/destructuring-in-reactjs-why-use-it/)
 
 ##### ReactJS.org documentation
 
@@ -263,6 +273,7 @@ What's coming in the future of CSS.
 * [SQUIP overview](https://calendar.perfplanet.com/2017/sqip-vague-vectors-for-performant-previews/)
 * [Three Types of Performance Testing - CSSWizardy](https://csswizardry.com/2018/10/three-types-of-performance-testing/)
 * [A Netflix Web Performance Case Study](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9)
+* [Front End Developers have to manage the loading experience](https://css-tricks.com/front-end-developers-have-to-manage-the-loading-experience/)
 
 ---
 
