@@ -129,6 +129,7 @@ What's coming in the future of CSS.
 * [Pure versus impure functions](https://toddmotto.com/pure-versus-impure-functions)
 * [Monads for (Almost) All: The State Monad](https://dev.to/riccardo_cardin/and-monads-for-almost-all-the-state-monad-2im1)
 * [Higher Order Components in 3 Minutes](https://codeburst.io/higher-order-components-in-3-minutes-93173b2ebe52)
+* [What is Referencial Transparency?](https://www.sitepoint.com/what-is-referential-transparency/)
 
 ##### Composition vs Inheritance
 
