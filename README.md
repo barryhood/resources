@@ -131,6 +131,9 @@ What's coming in the future of CSS.
 * [Monads for (Almost) All: The State Monad](https://dev.to/riccardo_cardin/and-monads-for-almost-all-the-state-monad-2im1)
 * [Higher Order Components in 3 Minutes](https://codeburst.io/higher-order-components-in-3-minutes-93173b2ebe52)
 * [What is Referencial Transparency?](https://www.sitepoint.com/what-is-referential-transparency/)
+* [Elegant Error Handling with Monads](https://blog.logrocket.com/elegant-error-handling-with-the-javascript-either-monad-76c7ae4924a1)
+* [Gentle Introduction to Functional JS - Currying](https://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-functions/#currying)
+* [Gentle Introduction to Functional JS - Function composition](https://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-functions/#composition)
 
 ##### Composition vs Inheritance
 
