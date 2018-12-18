@@ -190,12 +190,14 @@ What's coming in the future of CSS.
 * [React Beautiful/Accessible Drag n Drop](https://github.com/atlassian/react-beautiful-dnd)
 * [React Why Do We Need Higher Order Components](https://vijayt.com/post/why-do-we-need-redux-and-higher-order-components)
 * [Destructuring in JS - Why](https://www.jsdiaries.com/destructuring-in-reactjs-why-use-it/)
+* [React Hooks - developing a custom hook for data fetching](https://itnext.io/react-hooks-tutorial-on-developing-a-custom-hook-for-data-fetching-8ad5840db7ae)
 
 ##### ReactJS.org documentation
 
 * [Higher Order Components (HOCs) in React](https://reactjs.org/docs/higher-order-components.html)
 * [Refs and the DOM](https://reactjs.org/docs/refs-and-the-dom.html)
 * [State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
+* [Introducing Hooks](https://reactjs.org/docs/hooks-intro.html)
 
 
 ##### React Style Guides
