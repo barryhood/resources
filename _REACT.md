@@ -105,6 +105,24 @@ A Redirect can be used to ensure users arriving via one route are directed to an
 
 `<Redirect from “/” to “/posts” />`
 
+### React concepts:
+
+Render props components, compound components and higher order components are all methods of allowing code re-use between components.
+
+#### Render props component
+
+Pass a function as a prop to a component so that the component can use that function to determine what to render, this is a "render prop". Useful where we have some repeated logic in a component, but want to display the results of that logic in several ways: [ReactJS.org render props](https://reactjs.org/docs/render-props.html)
+
+However, render props can lead to obfuscation if over-used (particularly nesting render props). Compound components are another (more advanced) pattern to achieve this.
+
+#### Compound component
+
+...
+
+#### Higher order component
+
+...
+
 ## Redux
 
 Install with:
