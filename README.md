@@ -21,6 +21,7 @@ Tools and resources
 
 * [HTML 5.2 Dialog element (modals)](https://keithjgrant.com/posts/2018/meet-the-new-dialog-element/)
 * [A brief look at HTML dialog](https://kyusuf.com/post/a-brief-look-at-html-dialog)
+* [The Practical Value of Semantic HTML - Bruce Lawson](https://www.brucelawson.co.uk/2018/the-practical-value-of-semantic-html/)
 
 ---
 
