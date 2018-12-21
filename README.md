@@ -94,6 +94,7 @@ What's coming in the future of CSS.
 * [Writing CSS With Accessibility in Mind](https://medium.com/@matuzo/writing-css-with-accessibility-in-mind-8514a0007939)
 * [Deque Cauldron Accessibility Pattern Library](https://pattern-library.dequelabs.com/)
 * [Using Aria Live](https://bitsofco.de/using-aria-live/)
+* [Designing Accessibly](https://www.invisionapp.com/inside-design/designing-accessibility-not-hard/)
 
 
 ---
