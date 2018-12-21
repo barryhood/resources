@@ -162,7 +162,7 @@ What's coming in the future of CSS.
 
 * [Definitive Typescript Guide - Sitepen](https://www.sitepen.com/blog/2018/10/29/update-the-definitive-typescript-guide/)
 * [Typescript Cheat Sheet - Sitepen (to go with the guide above)](https://www.sitepen.com/blog/2018/10/10/typescript-cheat-sheet)
-* [Getting Started With Typescript] (https://levelup.gitconnected.com/essential-typescript-types-get-started-with-typescript-5e20a5106c90)
+* [Getting Started With Typescript](https://levelup.gitconnected.com/essential-typescript-types-get-started-with-typescript-5e20a5106c90)
 
 ---
 
