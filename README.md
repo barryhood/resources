@@ -127,6 +127,7 @@ What's coming in the future of CSS.
 * [Vanilla JS equivalent of jQuery fadeIn/fadeOut](http://www.chrisbuttery.com/articles/fade-in-fade-out-with-javascript/)
 * [JavaScript Design Patterns - LogRocket](https://blog.logrocket.com/javascript-design-pattern-214d888096a3)
 * [Asynchronous JS - From Callbacks to Promises to Async Await](https://tylermcginnis.com/async-javascript-from-callbacks-to-promises-to-async-await/)
+* [Async Await vs Promises](https://levelup.gitconnected.com/async-await-vs-promises-4fe98d11038f)
 
 ##### Functional JS
 
@@ -172,6 +173,7 @@ What's coming in the future of CSS.
 * [Getting Started With Typescript](https://levelup.gitconnected.com/essential-typescript-types-get-started-with-typescript-5e20a5106c90)
 * [Microsoft Typescript React Starter](https://github.com/Microsoft/TypeScript-React-Starter#typescript-react-starter)
 * [TypeScript Types for Beginners — Get Started with TypeScript](https://levelup.gitconnected.com/essential-typescript-types-get-started-with-typescript-5e20a5106c90)
+* [Eloquent Typescript Tips](https://levelup.gitconnected.com/eloquent-typescript-tips-36a89ab5cc7a)
 
 ---
 
@@ -202,6 +204,7 @@ What's coming in the future of CSS.
 * [Destructuring in JS - Why](https://www.jsdiaries.com/destructuring-in-reactjs-why-use-it/)
 * [React Hooks - developing a custom hook for data fetching](https://itnext.io/react-hooks-tutorial-on-developing-a-custom-hook-for-data-fetching-8ad5840db7ae)
 * [Reach UI - Accessible React-based design system](https://ui.reach.tech/)
+* [React Custom Hooks and the death of Render Props](https://blog.logrocket.com/react-custom-hooks-and-the-death-of-render-props-a0ce5cba387f)
 
 ##### ReactJS.org documentation
 
@@ -293,6 +296,7 @@ What's coming in the future of CSS.
 * [Three Types of Performance Testing - CSSWizardy](https://csswizardry.com/2018/10/three-types-of-performance-testing/)
 * [A Netflix Web Performance Case Study](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9)
 * [Front End Developers have to manage the loading experience](https://css-tricks.com/front-end-developers-have-to-manage-the-loading-experience/)
+* [Performance Calendar](https://calendar.perfplanet.com/2018/)
 
 ---
 
