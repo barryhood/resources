@@ -96,7 +96,12 @@ What's coming in the future of CSS.
 * [Using Aria Live](https://bitsofco.de/using-aria-live/)
 * [Designing Accessibly](https://www.invisionapp.com/inside-design/designing-accessibility-not-hard/)
 * [24a11y - 24 days of accessibility articles (2017 - 2018)](https://www.24a11y.com/)
-
+* [IAAP International Association of Accessibility Professionals](https://www.accessibilityassociation.org/content.asp?contentid=153)
+* [Using aria-live - bitsofco.de](https://bitsofco.de/using-aria-live/)
+* [An Incomplete Guide to Inclusive Language for Startups and Tech](https://open.buffer.com/inclusive-language-tech/)
+* [How to create a simple CSS loading spinner & make it accessible](https://codeburst.io/how-to-create-a-simple-css-loading-spinner-make-it-accessible-e5c83c2e464c)
+* [WCAG-EM Overview: Website Accessibility Conformance Evaluation Methodology](https://www.w3.org/WAI/test-evaluate/conformance/wcag-em/)
+* [The A11y Project - Patterns (An accessible widget & pattern library)](https://a11yproject.com/patterns)
 
 ---
 
@@ -165,6 +170,8 @@ What's coming in the future of CSS.
 * [Definitive Typescript Guide - Sitepen](https://www.sitepen.com/blog/2018/10/29/update-the-definitive-typescript-guide/)
 * [Typescript Cheat Sheet - Sitepen (to go with the guide above)](https://www.sitepen.com/blog/2018/10/10/typescript-cheat-sheet)
 * [Getting Started With Typescript](https://levelup.gitconnected.com/essential-typescript-types-get-started-with-typescript-5e20a5106c90)
+* [Microsoft Typescript React Starter](https://github.com/Microsoft/TypeScript-React-Starter#typescript-react-starter)
+* [TypeScript Types for Beginners — Get Started with TypeScript](https://levelup.gitconnected.com/essential-typescript-types-get-started-with-typescript-5e20a5106c90)
 
 ---
 
@@ -194,6 +201,7 @@ What's coming in the future of CSS.
 * [React Why Do We Need Higher Order Components](https://vijayt.com/post/why-do-we-need-redux-and-higher-order-components)
 * [Destructuring in JS - Why](https://www.jsdiaries.com/destructuring-in-reactjs-why-use-it/)
 * [React Hooks - developing a custom hook for data fetching](https://itnext.io/react-hooks-tutorial-on-developing-a-custom-hook-for-data-fetching-8ad5840db7ae)
+* [Reach UI - Accessible React-based design system](https://ui.reach.tech/)
 
 ##### ReactJS.org documentation
 
