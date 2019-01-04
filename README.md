@@ -10,6 +10,7 @@ Collection of resource links and useful information
 * [A study plan to cure JavaScript fatigue](https://medium.freecodecamp.org/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1)
 * [Front End study guide for large teams from Grab](https://medium.freecodecamp.org/grabs-front-end-guide-for-large-teams-484d4033cc41)
 * [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
+* [Front End Hacking Cheatsheets - cheatsheets for many FE APIs](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
 
 Tools and resources
 
