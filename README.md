@@ -129,6 +129,7 @@ What's coming in the future of CSS.
 * [JavaScript Design Patterns - LogRocket](https://blog.logrocket.com/javascript-design-pattern-214d888096a3)
 * [Asynchronous JS - From Callbacks to Promises to Async Await](https://tylermcginnis.com/async-javascript-from-callbacks-to-promises-to-async-await/)
 * [Async Await vs Promises](https://levelup.gitconnected.com/async-await-vs-promises-4fe98d11038f)
+* [How to Visually Design State in JavaScript](https://medium.freecodecamp.org/how-to-visually-design-state-in-javascript-3a6a1aadab2b)
 
 ##### Functional JS
 
