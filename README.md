@@ -288,6 +288,10 @@ What's coming in the future of CSS.
 
 * [Iphone X Safe Area](https://www.quirksmode.org/blog/archives/2017/10/safeareainset_v.html)
 * [The State of VR and the Web](https://www.smashingmagazine.com/2017/09/guide-virtual-reality-web-developers/)
+* [Inside look at modern web browser (part 1)](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
+* [Inside look at modern web browser (part 2)](https://developers.google.com/web/updates/2018/09/inside-browser-part2)
+* [Inside look at modern web browser (part 3)](https://developers.google.com/web/updates/2018/09/inside-browser-part3)
+* [Inside look at modern web browser (part 4)](https://developers.google.com/web/updates/2018/09/inside-browser-part4)
 
 ---
 
