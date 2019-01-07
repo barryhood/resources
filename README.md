@@ -131,6 +131,7 @@ What's coming in the future of CSS.
 * [Async Await vs Promises](https://levelup.gitconnected.com/async-await-vs-promises-4fe98d11038f)
 * [How to Visually Design State in JavaScript (p1)](https://medium.freecodecamp.org/how-to-visually-design-state-in-javascript-3a6a1aadab2b)
 * [Patterns for using React with Statechart-based state machines (p2)](https://medium.freecodecamp.org/patterns-for-using-react-with-statechart-based-state-machines-33e6ab754605)
+* [Tip - Get unique values from array](https://twitter.com/addyosmani/status/1080727964411674624/photo/1)
 
 ##### Functional JS
 
