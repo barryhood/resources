@@ -211,6 +211,7 @@ What's coming in the future of CSS.
 * [Reach UI - Accessible React-based design system](https://ui.reach.tech/)
 * [React Custom Hooks and the death of Render Props](https://blog.logrocket.com/react-custom-hooks-and-the-death-of-render-props-a0ce5cba387f)
 * [Understanding React Hooks UseState](https://blog.bitsrc.io/understanding-react-hooks-usestate-6627120614ab)
+* [Event Propagation: React Synthetic Events vs Native Events](https://gideonpyzer.com/blog/event-propagation-react-synthetic-events-vs-native-events/)
 
 
 ##### ReactJS.org documentation
