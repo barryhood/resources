@@ -334,3 +334,10 @@ What's coming in the future of CSS.
 * [Shoptalk Show](https://shoptalkshow.com/archives/)
 * [Syntax](https://syntax.fm/show/)
 * [JavaScript Jabber](https://devchat.tv/js-jabber/?utm_source=layout&utm_medium=resources&utm_campaign=developer-podcasts&utm_content=javascript-jabber)
+
+### Recruitment
+
+* [Findng Remote Work in 2019 - resources comparison](https://dev.to/k_ivanow/finding-remote-work-in-2019-6ce)
+
+
+
