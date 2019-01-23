@@ -104,6 +104,9 @@ What's coming in the future of CSS.
 * [WCAG-EM Overview: Website Accessibility Conformance Evaluation Methodology](https://www.w3.org/WAI/test-evaluate/conformance/wcag-em/)
 * [The A11y Project - Patterns (An accessible widget & pattern library)](https://a11yproject.com/patterns)
 * [Disabled Buttons Suck - Axesslab.com](https://axesslab.com/disabled-buttons-suck/)
+* [Accessible Carousels Part 1 - MMcKinnon](http://mmckinnon.com/blog/2015/accessible-carousels-part-1)
+* [Accessible Carousels Part 2 - MMcKinnon](http://mmckinnon.com/blog/2015/accessible-carousels-part-2)
+* [Accessible Carousels Part 3 - MMcKinnon](http://mmckinnon.com/blog/2015/accessible-carousels-part-3)
 
 ---
 
