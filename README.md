@@ -108,6 +108,7 @@ What's coming in the future of CSS.
 * [Accessible Carousels Part 2 - MMcKinnon](http://mmckinnon.com/blog/2015/accessible-carousels-part-2)
 * [Accessible Carousels Part 3 - MMcKinnon](http://mmckinnon.com/blog/2015/accessible-carousels-part-3)
 * [Spark Design Systems - design patterns](https://sparkdesignsystem.com/)
+* [AccDC Technical Style Guide](http://whatsock.com/tsg/)
 
 ---
 
