@@ -110,6 +110,7 @@ What's coming in the future of CSS.
 * [Spark Design Systems - design patterns](https://sparkdesignsystem.com/)
 * [AccDC Technical Style Guide](http://whatsock.com/tsg/)
 * [Marcy Sutton's a11ywins tumblr - examples of a11y good practice](https://a11ywins.tumblr.com/)
+* [Aviva Accessibility Checklist](https://standards.aviva.com/global-experience-principles/accessibility-standards/checklist.html)
 
 ---
 
