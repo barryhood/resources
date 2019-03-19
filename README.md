@@ -45,6 +45,11 @@ Ways to write CSS to improve scalability, readability, etc.
 * [Atomic Design – Your Ultimate Guide to Scalable & Modular CSS (Sass)](https://blog.alexdevero.com/atomic-design-scalable-modular-css-sass/)
 * [Media Queries and Responsive Design 2018 and beyond](https://www.smashingmagazine.com/2018/02/media-queries-responsive-design-2018/?utm_campaign=CSS%2BLayout%2BNews&utm_medium=email&utm_source=CSS_Layout_News_132#do-you-need-a-media-query-at-all)
 
+Good BEM examples, illustrate one element per block principle:
+* [BEM CSS Organisation](https://seesparkbox.com/foundry/bem_css_organization)
+* [BEM by Example](https://seesparkbox.com/foundry/bem_by_example)
+
+
 ##### CSS Grid
 
 * [Grid By Example - Grid patterns](https://gridbyexample.com/)
