@@ -293,6 +293,7 @@ What's coming in the future of CSS.
 * [Adding ES Lint to IDE (Sublime, Atom)](https://medium.com/@netczuk/even-faster-code-formatting-using-eslint-22b80d061461)
 * [How I Use Git - Git Tricks and Tips](https://hugogiraudel.com/2018/02/17/how-i-use-git/)
 * [Firebase Authentication - REST API](https://firebase.google.com/docs/reference/rest/auth/)
+* [Little Things I Like to Do with Git](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/)
 
 ---
 
