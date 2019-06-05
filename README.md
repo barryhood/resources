@@ -118,6 +118,7 @@ What's coming in the future of CSS.
 * [Aviva Accessibility Checklist](https://standards.aviva.com/global-experience-principles/accessibility-standards/checklist.html)
 * [Accessibility Reviews - reviews of tools, services, platforms, etc](https://a11y.reviews/)
 * [Short note on aria-label, aria-labelledby, and aria-describedby - Léonie Watson](https://developer.paciellogroup.com/blog/2017/07/short-note-on-aria-label-aria-labelledby-and-aria-describedby/)
+* [Deque University Accessibility Checklist](https://dequeuniversity.com/checklists/web/)
 
 ---
 
