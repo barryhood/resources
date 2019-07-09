@@ -120,6 +120,7 @@ What's coming in the future of CSS.
 * [Short note on aria-label, aria-labelledby, and aria-describedby - Léonie Watson](https://developer.paciellogroup.com/blog/2017/07/short-note-on-aria-label-aria-labelledby-and-aria-describedby/)
 * [Deque University Accessibility Checklist](https://dequeuniversity.com/checklists/web/)
 * [Drop down select/combo box examples including multi-select, categories - Dequelabs](https://dequelabs.github.io/combobo/demo/)
+* [A toast to an accessible toast - Scott O'Hara](https://www.scottohara.me/blog/2019/07/08/a-toast-to-a11y-toasts.html)
 
 ---
 
