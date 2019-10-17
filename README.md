@@ -45,6 +45,11 @@ Ways to write CSS to improve scalability, readability, etc.
 * [Atomic Design – Your Ultimate Guide to Scalable & Modular CSS (Sass)](https://blog.alexdevero.com/atomic-design-scalable-modular-css-sass/)
 * [Media Queries and Responsive Design 2018 and beyond](https://www.smashingmagazine.com/2018/02/media-queries-responsive-design-2018/?utm_campaign=CSS%2BLayout%2BNews&utm_medium=email&utm_source=CSS_Layout_News_132#do-you-need-a-media-query-at-all)
 
+Good BEM examples, illustrate one element per block principle:
+* [BEM CSS Organisation](https://seesparkbox.com/foundry/bem_css_organization)
+* [BEM by Example](https://seesparkbox.com/foundry/bem_by_example)
+
+
 ##### CSS Grid
 
 * [Grid By Example - Grid patterns](https://gridbyexample.com/)
@@ -107,6 +112,15 @@ What's coming in the future of CSS.
 * [Accessible Carousels Part 1 - MMcKinnon](http://mmckinnon.com/blog/2015/accessible-carousels-part-1)
 * [Accessible Carousels Part 2 - MMcKinnon](http://mmckinnon.com/blog/2015/accessible-carousels-part-2)
 * [Accessible Carousels Part 3 - MMcKinnon](http://mmckinnon.com/blog/2015/accessible-carousels-part-3)
+* [Spark Design Systems - design patterns](https://sparkdesignsystem.com/)
+* [AccDC Technical Style Guide](http://whatsock.com/tsg/)
+* [Marcy Sutton's a11ywins tumblr - examples of a11y good practice](https://a11ywins.tumblr.com/)
+* [Aviva Accessibility Checklist](https://standards.aviva.com/global-experience-principles/accessibility-standards/checklist.html)
+* [Accessibility Reviews - reviews of tools, services, platforms, etc](https://a11y.reviews/)
+* [Short note on aria-label, aria-labelledby, and aria-describedby - Léonie Watson](https://developer.paciellogroup.com/blog/2017/07/short-note-on-aria-label-aria-labelledby-and-aria-describedby/)
+* [Deque University Accessibility Checklist](https://dequeuniversity.com/checklists/web/)
+* [Drop down select/combo box examples including multi-select, categories - Dequelabs](https://dequelabs.github.io/combobo/demo/)
+* [A toast to an accessible toast - Scott O'Hara](https://www.scottohara.me/blog/2019/07/08/a-toast-to-a11y-toasts.html)
 
 ---
 
@@ -136,6 +150,7 @@ What's coming in the future of CSS.
 * [How to Visually Design State in JavaScript (p1)](https://medium.freecodecamp.org/how-to-visually-design-state-in-javascript-3a6a1aadab2b)
 * [Patterns for using React with Statechart-based state machines (p2)](https://medium.freecodecamp.org/patterns-for-using-react-with-statechart-based-state-machines-33e6ab754605)
 * [Tip - Get unique values from array](https://twitter.com/addyosmani/status/1080727964411674624/photo/1)
+* [Best Practices for writing clean JS code](https://devinduct.com/blogpost/22/javascript-clean-code-best-practices)
 
 ##### Functional JS
 
@@ -283,6 +298,7 @@ What's coming in the future of CSS.
 * [Adding ES Lint to IDE (Sublime, Atom)](https://medium.com/@netczuk/even-faster-code-formatting-using-eslint-22b80d061461)
 * [How I Use Git - Git Tricks and Tips](https://hugogiraudel.com/2018/02/17/how-i-use-git/)
 * [Firebase Authentication - REST API](https://firebase.google.com/docs/reference/rest/auth/)
+* [Little Things I Like to Do with Git](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/)
 
 ---
 
