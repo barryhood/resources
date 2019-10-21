@@ -1,0 +1,105 @@
+.wrapper {
+  padding: 50px 10px;
+  background-color: white;
+  /* background: gray; */
+  /* background: url(http://placekitten.com/g/800/200) no-repeat; */
+  background-size: cover;
+}
+
+.DxRangeSlider .noUi-connects {
+  overflow-y: visible;
+  overflow-x: hidden;
+}
+
+.DxRangeSlider .noUi-connect {
+  visibility: hidden;
+}
+
+.DxRangeSlider.noUi-target {
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  box-shadow: none;
+  height: 8px;
+}
+
+.DxRangeSlider .noUi-base {
+  border: 0;
+}
+
+.DxRangeSlider .noUi-handle {
+  box-shadow: none;
+  background: rgba(255, 255, 255, 0);
+  border-radius: 100px;
+  /* width/height should actually be 42px including border - style guide is incorrect as the line is in the centre of the border */
+  width: 38px;
+  height: 38px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: white;
+  top: -15px;
+  outline: 0;
+  box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, .3), inset 0px 0px 4px 0px rgba(0, 0, 0, .2);
+  transition: all .3s ease-out;
+}
+
+.DxRangeSlider .noUi-handle::before,
+.DxRangeSlider .noUi-handle::after {
+  display: none;
+}
+
+.DxRangeSlider .noUi-touch-area {
+  background: transparent;
+  border-radius: 100px;
+}
+
+html:not([dir=rtl]) .DxRangeSlider.noUi-horizontal .noUi-handle {
+  right: -19px;
+}
+
+.DxRangeSlider__custom-connect {
+  position: absolute;
+  background: white;
+  box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, .3);
+  height: 2px;
+  top: 3px;
+}
+
+.DxRangeSlider.noUi-state-tap .DxRangeSlider__custom-connect {
+  transition: width .3s;
+}
+
+.DxRangeSlider .noUi-touch-area {
+  background: transparent;
+  border-radius: 100px;
+  position: absolute;
+  width: calc(100% + 8px);
+  height: calc(100% + 8px);
+  left: -4px;
+  top: -4px;
+  box-shadow: 0px 0px 3px 3px rgba(74, 145, 226, 0), inset 0px 0px 1px 0px rgba(74, 145, 226, 0);
+}
+
+/* hover/focus styles */
+.DxRangeSlider .noUi-handle:focus .noUi-touch-area {
+  /* need to scope to keyboard only once in DX */
+  /* box-shadow: 0px 0px 3px 3px rgba(74, 145, 226, 1), inset 0px 0px 1px 0px rgba(74, 145, 226, 1); */
+}
+
+.DxRangeSlider .noUi-handle:hover,
+.DxRangeSlider .noUi-handle.noUi-active {
+  box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, .3), inset 0px 0px 4px 0px rgba(0, 0, 0, 0);
+  background: rgba(255, 255, 255, 1);
+}
+
+
+/* small handle styles */
+.DxRangeSlider.DxRangeSlider--small-handles .noUi-handle {
+  width: 16px;
+  height: 16px;
+  top: -5px;
+}
+
+html:not([dir=rtl]) .DxRangeSlider.noUi-horizontal.DxRangeSlider--small-handles .noUi-handle {
+  right: -8px;
+}

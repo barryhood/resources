@@ -1,0 +1,141 @@
+.wrapper {
+  padding: 50px 10px;
+  background: white;
+  /* background: gray; */
+  /* background: url(http://placekitten.com/g/800/200) no-repeat; */
+  background-size: cover;
+}
+
+.DxImageSlider .noUi-connects {
+  overflow-y: visible;
+  overflow-x: hidden;
+}
+
+.DxImageSlider .noUi-connect {
+  visibility: hidden;
+}
+
+.DxImageSlider.noUi-target {
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  box-shadow: none;
+  height: 8px;
+}
+
+.DxImageSlider .noUi-base {
+  border: 0;
+}
+
+.DxImageSlider .noUi-handle {
+  box-shadow: none;
+  background: rgba(255, 255, 255, 0);
+  border-radius: 100px;
+  /* width/height should actually be 42px including border - style guide is incorrect as the line is in the centre of the border */
+  width: 38px;
+  height: 38px;
+  border: 2px solid white;
+  top: -15px;
+  outline: 0;
+  box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, .3), inset 0px 0px 4px 0px rgba(0, 0, 0, .2);
+  transition: all .3s ease-out; /* box-shadow .3s, background-color .3s; */
+  /* cursor: grab; */
+}
+
+.DxImageSlider .noUi-handle::before,
+.DxImageSlider .noUi-handle::after {
+  display: none;
+}
+
+.DxImageSlider .noUi-touch-area {
+  background: transparent;
+  border-radius: 100px;
+}
+
+html:not([dir=rtl]) .DxImageSlider.noUi-horizontal .noUi-handle {
+  right: -19px;
+}
+
+
+.DxImageSlider__connect-before,
+.DxImageSlider__connect-after {
+  position: absolute;
+  background: white;
+  /* box-shadow: 0px 1px 4px 0px rgba(0,0,0,0.3); */
+  box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, .3);
+  height: 2px;
+  top: 3px;
+  left: 0;
+  /* outline: 1px solid black; */
+}
+
+.DxImageSlider__connect-after {
+  left: auto;
+  right: 0;
+}
+
+.DxImageSlider.noUi-state-tap .DxImageSlider__connect-before,
+.DxImageSlider.noUi-state-tap .DxImageSlider__connect-after {
+  transition: width .3s;
+}
+
+
+.DxImageSlider .noUi-touch-area {
+  background: transparent;
+  border-radius: 100px;
+  position: absolute;
+  width: calc(100% + 8px);
+  height: calc(100% + 8px);
+  left: -4px;
+  top: -4px;
+  box-shadow: 0px 0px 3px 3px rgba(74, 145, 226, 0), inset 0px 0px 1px 0px rgba(74, 145, 226, 0);
+}
+
+/* hover/focus styles */
+.DxImageSlider .noUi-handle:focus .noUi-touch-area {
+  /* need to scope to keyboard only once in DX */
+  /* box-shadow: 0px 0px 3px 3px rgba(74, 145, 226, 1), inset 0px 0px 1px 0px rgba(74, 145, 226, 1); */
+}
+
+.DxImageSlider .noUi-handle:hover,
+.DxImageSlider .noUi-handle.noUi-active {
+  box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, .3), inset 0px 0px 4px 0px rgba(0, 0, 0, 0);
+  background: rgba(255, 255, 255, 1);
+}
+
+
+/* .DxImageSlider .noUi-touch-area::before,
+.DxImageSlider .noUi-touch-area::after {
+  content: "";
+  display: block;
+  width: 5px;
+  height: 5px;
+  border: 2px solid black;
+  border-top: 0;
+  border-right: 0;
+  transform: rotate(45deg);
+  position: absolute;
+  top: calc(50% - 4px);
+  left: calc(50% - 6px);
+}
+
+.DxImageSlider .noUi-touch-area::after {
+  transform: rotate(225deg);
+  left: auto;
+  right: calc(50% - 6px);
+} */
+
+/* box-shadow: 0px 0px 3px 0px rgba(74,145,226,1), inset 0px 0px 3px 0px rgba(74,145,226,1); */
+
+
+/* .DxImageSlider .noUi-touch-area {
+  background: transparent;
+  border-radius: 100px;
+  position: absolute;
+  width: calc(100% + 10px);
+  height: calc(100% + 10px);
+  left: -5px;
+  top: -5px;
+  box-shadow: 0px 0px 3px 2px rgba(74,145,226,1), inset 0px 0px 2px 0px rgba(74,145,226,1);
+} */
+
