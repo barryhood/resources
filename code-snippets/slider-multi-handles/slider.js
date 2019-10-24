@@ -15,7 +15,7 @@ class DxRangeSlider {
     };
 
     this.options = Object.assign({}, this.defaults, options);
-    this.options.start = this.createStartArray();
+    
 
     this.createSlider();
   }
@@ -30,6 +30,7 @@ class DxRangeSlider {
   }
 
   createSlider() {
+    this.options.start = this.createStartArray();
     this.createCustomConnects();
     this.addCustomClasses();
     this.initSlider();
@@ -77,6 +78,7 @@ class DxRangeSlider {
       return element;
     };
     this.element.appendChild(createConnect(0));
+    console.log('this.options.start', this.options.start);
     this.options.start.forEach((handle, index) => this.element.appendChild(createConnect(index + 1)));
   }
 
@@ -130,19 +132,30 @@ let slider2 = new DxRangeSlider(sliders[1], opts);
 
 // EXAMPLE ABILITY TO DESTROY/RECREATE A SLIDER
 const destroy = document.querySelector('.destroy');
-const recreate = document.querySelector('.recreate');
-
 destroy.addEventListener('click', (event) => {
   event.preventDefault();
   slider2.destroySlider();
 });
 
-recreate.addEventListener('click', (event) => {
+const recreate1 = document.querySelector('.recreate1');
+recreate1.addEventListener('click', (event) => {
   event.preventDefault();
   // slider2 = new DxRangeSlider(sliders[1], opts);
-  slider2.updateOptions({
-    start: [1, 10]
-  });
+  slider2.updateOptions({start: 5});
+  slider2.createSlider();
+});
+
+const recreate2 = document.querySelector('.recreate2');
+recreate2.addEventListener('click', (event) => {
+  event.preventDefault();
+  slider2.updateOptions({start: [1, 9]});
+  slider2.createSlider();
+});
+
+const recreate3 = document.querySelector('.recreate3');
+recreate3.addEventListener('click', (event) => {
+  event.preventDefault();
+  slider2.updateOptions({start: [2, 4, 6]});
   slider2.createSlider();
 });
 
