@@ -2,16 +2,20 @@ class DxRangeSlider {
   constructor(element, options) {
     this.element = element;
     this.customConnectClass = 'DxRangeSlider__custom-connect';
-    this.customConnectIndex = 'data-dxrangeslider-index';
     this.customConnectNamespace = 'DxRangeSlider-custom-connects';
-    this.modifierClassPrepend = 'DxRangeSlider--';
-    this.initAttribute = 'data-dxrangeslider-init';
+
+    // data attributes
+    this.dataNameSpace = 'data-dxrangeslider-';
+    this.dataConnectIndex = `${this.dataNameSpace}index`;
+    this.dataIsInitialised = `${this.dataNameSpace}init`;
+    this.dataTheme = `${this.dataNameSpace}theme`;
+
     this.smallHandleClass = 'DxRangeSlider--small-handles';
     this.smallHandles = options.start.length > 1;
 
     this.defaults = {
-      theme: 'light', // 'light' or 'dark'
-      direction: 'ltr',
+      theme: 'light', // light || dark
+      direction: 'ltr', // ltr || rtl
       customConnectSpacing: this.smallHandles ? 12 : 27 // spacing between centre of handle and edge of connector
     };
 
@@ -41,7 +45,7 @@ class DxRangeSlider {
 
   addCustomClasses() {
     this.element.classList.add(`data-dxrangeslider-direction="${this.options.direction}"`);
-    this.element.classList.add(`${this.modifierClassPrepend}${this.options.theme}`);
+    this.element.setAttribute(this.dataTheme, this.options.theme);
     if (this.smallHandles) {
       this.element.classList.add(this.smallHandleClass);
     }
@@ -65,30 +69,28 @@ class DxRangeSlider {
   }
 
   isInitialised() {
-    console.log('this.element.getAttribute(this.initAttribute):', !!this.element.getAttribute(this.initAttribute));
-    return this.element.getAttribute(this.initAttribute);
+    return this.element.getAttribute(this.dataIsInitialised);
   }
 
   setInitStatus(status) {
-    this.element.setAttribute(this.initAttribute, status ? true : '');
+    this.element.setAttribute(this.dataIsInitialised, status ? true : '');
   }
 
   createCustomConnects() {
     const createConnect = (index) => {
       const element = document.createElement('div');
       element.classList.add(this.customConnectClass);
-      element.setAttribute(this.customConnectIndex, index);
+      element.setAttribute(this.dataConnectIndex, index);
       return element;
     };
     this.element.appendChild(createConnect(0));
-    console.log('this.options.start', this.options.start);
     this.options.start.forEach((handle, index) => this.element.appendChild(createConnect(index + 1)));
   }
 
 
   addCustomConnectEvents() {
     const alignment = this.options.direction === 'ltr' ? 'left' : 'right';
-    const connectors = [...this.element.querySelectorAll(`[${this.customConnectIndex}]`)];
+    const connectors = [...this.element.querySelectorAll(`[${this.dataConnectIndex}]`)];
     const firstConnector = connectors[0];
 
     this.slider.on(`update.${this.customConnectNamespace}`, (...args) => {
