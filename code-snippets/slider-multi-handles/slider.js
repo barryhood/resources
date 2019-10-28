@@ -186,3 +186,15 @@ getInit.addEventListener('click', (event) => {
   event.preventDefault();
   console.log(slider2.isInitialised());
 });
+
+
+
+sliders.forEach((slider) => {
+  slider.classList.add('visually-hidden');
+  slider.addEventListener('focusin', (e) => {
+    e.currentTarget.classList.remove('visually-hidden');
+  });
+  slider.addEventListener('focusout', (e) => {
+    e.currentTarget.classList.add('visually-hidden');
+  });  
+});
