@@ -103,3 +103,7 @@ html:not([dir=rtl]) .DxRangeSlider.noUi-horizontal .noUi-handle {
 html:not([dir=rtl]) .DxRangeSlider.noUi-horizontal.DxRangeSlider--small-handles .noUi-handle {
   right: -8px;
 }
+
+.DxRangeSlider--dark {
+  border: 5px solid red;
+}

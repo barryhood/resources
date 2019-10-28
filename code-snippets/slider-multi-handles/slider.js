@@ -4,19 +4,18 @@ class DxRangeSlider {
     this.customConnectClass = 'DxRangeSlider__custom-connect';
     this.customConnectIndex = 'data-dxrangeslider-index';
     this.customConnectNamespace = 'DxRangeSlider-custom-connects';
+    this.modifierClassPrepend = 'DxRangeSlider--';
     this.initAttribute = 'data-dxrangeslider-init';
     this.smallHandleClass = 'DxRangeSlider--small-handles';
     this.smallHandles = options.start.length > 1;
 
     this.defaults = {
-      theme: 'light',
+      theme: 'light', // 'light' or 'dark'
       direction: 'ltr',
       customConnectSpacing: this.smallHandles ? 12 : 27 // spacing between centre of handle and edge of connector
     };
 
     this.options = Object.assign({}, this.defaults, options);
-    
-
     this.createSlider();
   }
 
@@ -30,6 +29,9 @@ class DxRangeSlider {
   }
 
   createSlider() {
+    if (this.isInitialised()) {
+      return;
+    }
     this.options.start = this.createStartArray();
     this.createCustomConnects();
     this.addCustomClasses();
@@ -39,6 +41,7 @@ class DxRangeSlider {
 
   addCustomClasses() {
     this.element.classList.add(`data-dxrangeslider-direction="${this.options.direction}"`);
+    this.element.classList.add(`${this.modifierClassPrepend}${this.options.theme}`);
     if (this.smallHandles) {
       this.element.classList.add(this.smallHandleClass);
     }
@@ -61,7 +64,7 @@ class DxRangeSlider {
     this.setInitStatus(null);
   }
 
-  getInitStatus() {
+  isInitialised() {
     console.log('this.element.getAttribute(this.initAttribute):', !!this.element.getAttribute(this.initAttribute));
     return this.element.getAttribute(this.initAttribute);
   }
@@ -109,6 +112,10 @@ class DxRangeSlider {
       });
     });
   }
+
+  setSmallHandles(status) {
+    this.smallHandles = status;
+  }
 }
 
 
@@ -141,26 +148,39 @@ const recreate1 = document.querySelector('.recreate1');
 recreate1.addEventListener('click', (event) => {
   event.preventDefault();
   // slider2 = new DxRangeSlider(sliders[1], opts);
-  slider2.updateOptions({start: 5});
+  slider2.setSmallHandles(false);
+  slider2.updateOptions({
+    start: 5,
+    customConnectSpacing: 27
+  });
   slider2.createSlider();
 });
 
 const recreate2 = document.querySelector('.recreate2');
 recreate2.addEventListener('click', (event) => {
   event.preventDefault();
-  slider2.updateOptions({start: [1, 9]});
+  slider2.setSmallHandles(true);
+  slider2.updateOptions({
+    start: [1, 9],
+    customConnectSpacing: 12,
+    theme: 'dark'
+  });
   slider2.createSlider();
 });
 
 const recreate3 = document.querySelector('.recreate3');
 recreate3.addEventListener('click', (event) => {
   event.preventDefault();
-  slider2.updateOptions({start: [2, 4, 6]});
+  slider2.setSmallHandles(true);
+  slider2.updateOptions({
+    start: [2, 4, 6],
+    customConnectSpacing: 12
+  });
   slider2.createSlider();
 });
 
 const getInit = document.querySelector('.init');
 getInit.addEventListener('click', (event) => {
   event.preventDefault();
-  console.log(slider2.getInitStatus());
+  console.log(slider2.isInitialised());
 });
