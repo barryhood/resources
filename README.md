@@ -121,6 +121,7 @@ What's coming in the future of CSS.
 * [Deque University Accessibility Checklist](https://dequeuniversity.com/checklists/web/)
 * [Drop down select/combo box examples including multi-select, categories - Dequelabs](https://dequelabs.github.io/combobo/demo/)
 * [A toast to an accessible toast - Scott O'Hara](https://www.scottohara.me/blog/2019/07/08/a-toast-to-a11y-toasts.html)
+* [Danger! Testing Accessibility With Real People](https://medium.theuxblog.com/danger-testing-accessibility-with-real-people-4515f72db648) - really good response to Simply Accessible's "Danger! ARIA Tabs" article
 
 ---
 
