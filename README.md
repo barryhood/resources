@@ -123,6 +123,7 @@ What's coming in the future of CSS.
 * [A toast to an accessible toast - Scott O'Hara](https://www.scottohara.me/blog/2019/07/08/a-toast-to-a11y-toasts.html)
 * [Danger! Testing Accessibility With Real People](https://medium.theuxblog.com/danger-testing-accessibility-with-real-people-4515f72db648) - really good response to Simply Accessible's "Danger! ARIA Tabs" article
 * [Stop giving control hints to Screen Readers - Adrian Roselli](https://adrianroselli.com/2019/10/stop-giving-control-hints-to-screen-readers.html)
+* [How and where to report accessibility bugs](https://www.digitala11y.com/how-where-to-report-accessibility-bugs/)
 
 ---
 
