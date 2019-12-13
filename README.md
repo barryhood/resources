@@ -124,6 +124,8 @@ What's coming in the future of CSS.
 * [Danger! Testing Accessibility With Real People](https://medium.theuxblog.com/danger-testing-accessibility-with-real-people-4515f72db648) - really good response to Simply Accessible's "Danger! ARIA Tabs" article
 * [Stop giving control hints to Screen Readers - Adrian Roselli](https://adrianroselli.com/2019/10/stop-giving-control-hints-to-screen-readers.html)
 * [How and where to report accessibility bugs](https://www.digitala11y.com/how-where-to-report-accessibility-bugs/)
+* [Example accessible range slider with select input for screen reader users](http://whatsock.com/tsg/Coding%20Arena/ARIA%20Sliders/Vertical/demo.htm)
+* [Example accessible range slider with increment/decrement buttons](http://whatsock.com/tsg/Coding%20Arena/ARIA%20Sliders/Horizontal/demo.htm)
 
 ---
 
