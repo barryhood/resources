@@ -127,6 +127,7 @@ What's coming in the future of CSS.
 * [How and where to report accessibility bugs](https://www.digitala11y.com/how-where-to-report-accessibility-bugs/)
 * [Example accessible range slider with select input for screen reader users](http://whatsock.com/tsg/Coding%20Arena/ARIA%20Sliders/Vertical/demo.htm)
 * [Example accessible range slider with increment/decrement buttons](http://whatsock.com/tsg/Coding%20Arena/ARIA%20Sliders/Horizontal/demo.htm)
+* [Accessibility Interview Questions](https://scottaohara.github.io/accessibility_interview_questions/)
 
 ---
 
