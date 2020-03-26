@@ -129,6 +129,7 @@ What's coming in the future of CSS.
 * [Example accessible range slider with increment/decrement buttons](http://whatsock.com/tsg/Coding%20Arena/ARIA%20Sliders/Horizontal/demo.htm)
 * [Accessibility Interview Questions](https://scottaohara.github.io/accessibility_interview_questions/)
 * [Accessibility Object Model - draft specification](https://wicg.github.io/aom/spec/)
+* [Multi-range slider](https://leaverou.github.io/multirange/)
 
 ---
 
