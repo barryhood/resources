@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>title</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/vanillajs-datepicker@1.1.4/dist/css/datepicker.min.css" type="text/css">
+  <link rel="stylesheet" href="styles.css" type="text/css">
+</head>
+<body>
+
+  <h1 class="title title-h1">PDS Object COnfigurator</h1>
+  <p>Allows you to cojfigure the timestamps of fincalc entries on a PDS object to test different expiry scenarios.</p>
+  <p>Instructions:</p>
+  <ol>
+    <li>Copy your PDS object from localStorage, paste into the first panel and hit parse</li>
+    <li>If there are any configurable fincalc entries, they will be shown in the second panel where the dates can be set</li>
+    <li>Once the dates are set, hit generate object to create a script which can be run in your browser's dev console to add the PDS object</li>
+  </ol>
+
+  <p class="label">Paste your PDS object:</p>
+  <div class="pds-input panel">
+    <textarea class="pds-input-textarea"></textarea>
+  </div>
+  <button class="button pds-input-button">Parse object</button>
+
+  <p class="label">PDS object configuration:</p>
+  <div class="panel pds-config"></div>
+  <button class="button pds-config-button">Generate object</button>
+
+  <p class="label">Script output:</p>
+  <div class="panel pds-output">
+    <textarea class="pds-output-textarea"></textarea>
+  </div>
+  <button class="button pds-output-button">Copy to clipboard</button>
+
+  
+  <script src="https://cdn.jsdelivr.net/npm/vanillajs-datepicker@1.1.4/dist/js/datepicker-full.min.js"></script>
+  <script src="scripts.js"></script>
+</body>
+</html>

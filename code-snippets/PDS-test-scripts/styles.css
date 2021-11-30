@@ -1,0 +1,179 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after, q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+body {
+  padding: 20px;
+  font-family: arial;
+  letter-spacing: 1.5px;
+}
+
+.title-h1 {
+  font-size: 1.5rem;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+
+.title-h2 {
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+
+p, ol {
+  margin-bottom: 15px;
+}
+
+ol {
+  margin-left: 22px;
+}
+
+li {
+  margin-bottom: 8px;
+}
+
+
+.panel {
+  background-color: #e9ecec;
+  border: 1px solid #4a4f54;
+  padding: 20px;
+  margin-bottom: 8px;
+  min-height: 150px;
+}
+
+.panel textarea {
+  background: transparent;
+  border: 0;
+  width: 100%;
+  max-width: 100%;
+  min-width: 100%;
+  min-height: 350px;
+  font-size: 16px;
+}
+
+.label {
+  text-transform: uppercase;
+  margin-bottom: 5px;
+  margin-top: 30px;
+}
+
+.button {
+  margin-bottom: 40px;
+  padding: 12px;
+  background-color: black;
+  color: white;
+  border: 1px solid black;
+  cursor: pointer;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: 600;
+}
+
+.button:hover {
+  background: #e9ecec;
+  color: black;
+}
+
+.table {
+  width: 100%;
+  border: 1px solid #4a4f54;
+}
+
+.table th,
+.table td {
+  padding: 5px;
+  text-align: left;
+}
+
+.table thead tr,
+.table tbody tr:nth-child(even) {
+  background-color: #dfdfdf;
+}
+.table tbody tr:hover {
+  background-color: white;
+  cursor: default;
+}
+
+.table thead th:last-child,
+.table tbody td:last-child {
+  text-align: right;
+}
+
+.table-wrapper {
+  margin-top: 40px;
+}
+.table-wrapper:first-child {
+  margin-top: 0;
+}
+
+.table-date-field {
+  position: relative;
+}
+
+.table-date-field .datepicker {
+  position: absolute;
+  top: 0;
+  display: none !important;
+  z-index: 1;
+  border: 1px solid #4a4f54;
+}
+
+.table-date-field:hover .datepicker {
+  display: block !important;
+}
+
+.pds-output {
+
+}
+
+.pds-output-textarea {
+  max-height: 300px;
+  overflow: auto;
+}
+
+.panel textarea.pds-input-textarea {
+  min-height: 150px;
+  max-height: 300px;
+  overflow: auto;
+}
+
+input[type=text] {
+  border: 1px solid #4a4f54;
+  max-width: 50px;
+  padding: 5px;
+}
+
+.change-model-years {
+  margin-top: 30px;
+}

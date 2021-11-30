@@ -1,8 +1,10 @@
 class DxRangeSlider {
   constructor(element, options) {
     this.element = element;
+    this.slider = null;
     this.customConnectClass = 'DxRangeSlider__custom-connect';
     this.customConnectNamespace = 'DxRangeSlider-custom-connects';
+    this.smallHandleClass = 'DxRangeSlider--small-handles';
 
     // data attributes
     this.dataNameSpace = 'data-dxrangeslider-';
@@ -10,13 +12,14 @@ class DxRangeSlider {
     this.dataIsInitialised = `${this.dataNameSpace}init`;
     this.dataTheme = `${this.dataNameSpace}theme`;
 
-    this.smallHandleClass = 'DxRangeSlider--small-handles';
-    this.smallHandles = options.start.length > 1;
+    const smallHandles = options.start.length > 1;
+    const customConnectSpacing = smallHandles ? 12 : 27;
 
     this.defaults = {
+      customConnectSpacing,
+      smallHandles,
       theme: 'light', // light || dark
       direction: 'ltr', // ltr || rtl
-      customConnectSpacing: this.smallHandles ? 12 : 27 // spacing between centre of handle and edge of connector
     };
 
     this.options = Object.assign({}, this.defaults, options);
@@ -28,7 +31,7 @@ class DxRangeSlider {
   }
 
   createStartArray() {
-    const start = this.options.start;
+    const { start } = this.options;
     return Array.isArray(start) ? start : [start];
   }
 
@@ -46,7 +49,7 @@ class DxRangeSlider {
   addCustomClasses() {
     this.element.classList.add(`data-dxrangeslider-direction="${this.options.direction}"`);
     this.element.setAttribute(this.dataTheme, this.options.theme);
-    if (this.smallHandles) {
+    if (this.options.smallHandles) {
       this.element.classList.add(this.smallHandleClass);
     }
   }
@@ -87,15 +90,14 @@ class DxRangeSlider {
     this.options.start.forEach((handle, index) => this.element.appendChild(createConnect(index + 1)));
   }
 
-
   addCustomConnectEvents() {
     const alignment = this.options.direction === 'ltr' ? 'left' : 'right';
     const connectors = [...this.element.querySelectorAll(`[${this.dataConnectIndex}]`)];
-    const firstConnector = connectors[0];
 
     this.slider.on(`update.${this.customConnectNamespace}`, (...args) => {
       const positions = args[4];
-      connectors.forEach((connector, index) => {
+      connectors.forEach((element, index) => {
+        const connector = element;
         const isFirst = index === 0;
         const isLast = !connectors[index + 1];
         if (isFirst) {
@@ -108,15 +110,11 @@ class DxRangeSlider {
           connector.style[alignment] = `calc(${positions[index - 1]}% + ${this.options.customConnectSpacing}px)`;
           return;
         }
-        const doubleSpacing =this.options.customConnectSpacing * 2;
+        const doubleSpacing = this.options.customConnectSpacing * 2;
         connector.style.width = `calc(${positions[index]}% - ${positions[index - 1]}% - ${doubleSpacing}px)`;
         connector.style[alignment] = `calc(${positions[index - 1]}% + ${this.options.customConnectSpacing}px)`;
       });
     });
-  }
-
-  setSmallHandles(status) {
-    this.smallHandles = status;
   }
 }
 
@@ -150,10 +148,10 @@ const recreate1 = document.querySelector('.recreate1');
 recreate1.addEventListener('click', (event) => {
   event.preventDefault();
   // slider2 = new DxRangeSlider(sliders[1], opts);
-  slider2.setSmallHandles(false);
   slider2.updateOptions({
     start: 5,
-    customConnectSpacing: 27
+    customConnectSpacing: 27,
+    smallHandles: false
   });
   slider2.createSlider();
 });
@@ -161,11 +159,11 @@ recreate1.addEventListener('click', (event) => {
 const recreate2 = document.querySelector('.recreate2');
 recreate2.addEventListener('click', (event) => {
   event.preventDefault();
-  slider2.setSmallHandles(true);
   slider2.updateOptions({
     start: [1, 9],
     customConnectSpacing: 12,
-    theme: 'dark'
+    theme: 'dark',
+    smallHandles: true
   });
   slider2.createSlider();
 });
@@ -173,10 +171,10 @@ recreate2.addEventListener('click', (event) => {
 const recreate3 = document.querySelector('.recreate3');
 recreate3.addEventListener('click', (event) => {
   event.preventDefault();
-  slider2.setSmallHandles(true);
   slider2.updateOptions({
     start: [2, 4, 6],
-    customConnectSpacing: 12
+    customConnectSpacing: 12,
+    smallHandles: true
   });
   slider2.createSlider();
 });
