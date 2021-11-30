@@ -1,0 +1,54 @@
+/* .noUi-connect {
+  background: transparent;
+  position: relative;
+}
+
+.noUi-connect::after {
+  content: "";
+  position: absolute;
+  width: calc(100% - 80px);
+  height: 100%;
+  top: 0;
+  left: 40px;
+  background: gray;
+} */
+
+/* * {
+  outline: 0;
+} */
+
+.wrapper {
+  border: 1px solid black;
+  padding: 200px 20px 20px;
+  /* background-image: url(http://placekitten.com/600/200); */
+  background: gray;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.noUi-target {
+  background: transparent;
+  border: 0;
+  box-shadow: none;
+}
+
+.noUi-base {
+
+}
+
+.noUi-connects {
+  border-radius: 0;
+}
+
+.noUi-connect:first-child {
+  margin-left: -23px;
+}
+
+.noUi-connect:last-child {
+  margin-left: 23px;
+}
+
+.noUi-connect {
+  background: white;
+}

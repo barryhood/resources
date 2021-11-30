@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+  <head>
+    <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>title</title>
+    <style type="text/css">
+      body {
+        margin: 0;
+        padding: 0;
+      }
+      .testdiv {
+        background: gray;
+        width: 100%;
+        height: 100px;
+        box-sizing: border-box;
+        padding: 10px;
+        font-family: arial;
+      }
+      .testdiv:nth-child(even) {
+        background: lightgray;
+      }
+    </style>
+  </head>
+  <body>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.3.2/iframeResizer.contentWindow.js"></script>
+    <div class="testdiv">
+      Test content
+    </div>
+
+    <script>
+      let dir = 'f';
+      let num = 0;
+      setInterval(() => {
+        if(num === 0 || (num < 5 && dir === 'f')) {
+          dir = 'f';
+          const div = document.querySelector('.testdiv');
+          div.after(div.cloneNode(true));
+          num++;
+        } else if (num === 5 || (dir === 'b' && num > 0)) {
+          dir = 'b';
+          const div = document.querySelector('.testdiv');
+          div.remove();
+          num--;
+        }
+      }, 1500);
+    </script>
+  </body>
+</html>
